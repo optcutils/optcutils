@@ -1,0 +1,26 @@
+.footer {
+  font-size: 65%;
+  color: grey;
+  text-align: center;
+}
+
+.spacer {
+  height: 30px;
+}
+
+.spacer-xl {
+  height: 90px;
+}
+
+.spacer-l {
+  height: 60px;
+}
+
+.title {
+  color: black;
+  text-align: center;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
