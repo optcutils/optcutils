@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/optcutils/optcutils#readme",
   "dependencies": {
-    "millisec": "^0.2.0",
+    "format-duration": "^1.0.0",
     "timer-stopwatch": "^0.2.0"
   }
 }
