@@ -1,0 +1,19 @@
+{
+  "name": "optcutils",
+  "version": "1.0.0",
+  "description": "A collection of One Piece Treasure Cruise utilities.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optcutils/optcutils.git"
+  },
+  "author": "Kashbel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/optcutils/optcutils/issues"
+  },
+  "homepage": "https://github.com/optcutils/optcutils#readme"
+}
