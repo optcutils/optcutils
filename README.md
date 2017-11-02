@@ -6,13 +6,15 @@ I try to keep the code as clean as possible, but the folder structure is probabl
 
 The public and main branch is master, the work branch is develop.
 
-src/
+`src/`
   - Contains all the source files, then these get compiled with browserify into their respective
   folders.
 
-stamina/
+`stamina/`
   - Contains all the compiled sources and assets for the Stamina Timer utility.
 
+`assets/`
+  - Contains all the common assets for every utility.
 
 # Misc.
 Repo avatar: merimo-animation@deviantart
