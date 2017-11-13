@@ -3,6 +3,7 @@ const browserify = require('browserify');
 const source = require('vinyl-source-stream');
 const buffer = require('vinyl-buffer');
 const minify = require('gulp-minify');
+const push = require('gulp-git-push');
 
 const scripts = [
     {
@@ -20,5 +21,6 @@ gulp.task('scripts', function(){
         .pipe(source(file.name))
         .pipe(buffer())
         .pipe(minify({ext:{min:'.js'}, noSource: true}))
-        .pipe(gulp.dest(file.destination));
+        .pipe(gulp.dest(file.destination))
+        .pipe(push());
 });});

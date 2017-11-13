@@ -1,9 +1,9 @@
 const Stopwatch = require( 'timer-stopwatch' );
 const format = require( 'format-duration' );
 const Favico = require('favico.js');
-
 const timer = new Stopwatch( 0 );
 const favicon = new Favico({animation:'slide'});
+const audio = new Audio('assets/audio/notification.mp3');
 
 (function() {
   $( '#startButton' ).click( function() {
@@ -12,6 +12,7 @@ const favicon = new Favico({animation:'slide'});
     const milliStaminaConst = 5 * 60 * 1000;
     const totalMilliseconds = (parseInt( $( '#maxStamina' ).val() ) - parseInt( $( '#currentStamina' ).val() )) * milliStaminaConst;
     
+
     timer.reset( totalMilliseconds );
     title.removeClass( 'text-danger' );
     timer.start();
@@ -20,11 +21,18 @@ const favicon = new Favico({animation:'slide'});
     } );
 
     timer.onDone( function() {
-      // TODO: Add sound (and sound disable control)
+      if($('#playSound').prop('checked')){
+        audio.play();
+      }
       favicon.badge(1);
       timerTitle.innerHTML = 'STAMINA FILLED!';
       $( '#timeCount' ).addClass( 'text-danger' );
     } );
 
-  } );
+  });
+
+  $('#testSound').click(function(){
+      audio.play();
+  });
+
 })();
