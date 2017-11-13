@@ -1,3 +1,6 @@
+`1.2`
+    - Added sound notification
+
 `1.1`
     - Now the favicon gets a small red mark when the stamina is completely filled
 
