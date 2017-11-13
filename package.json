@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/optcutils/optcutils#readme",
   "dependencies": {
+    "favico.js": "^0.3.10",
     "format-duration": "^1.0.0",
     "timer-stopwatch": "^0.2.0"
   }
