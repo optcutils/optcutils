@@ -9,7 +9,7 @@ const favicon = new Favico({animation:'slide'});
   $( '#startButton' ).click( function() {
     const title = $( '#timeCount' );
     const timerTitle = title[0];
-    const milliStaminaConst = 5 * 60 * 1;
+    const milliStaminaConst = 5 * 60 * 1000;
     const totalMilliseconds = (parseInt( $( '#maxStamina' ).val() ) - parseInt( $( '#currentStamina' ).val() )) * milliStaminaConst;
     
     timer.reset( totalMilliseconds );
@@ -21,7 +21,6 @@ const favicon = new Favico({animation:'slide'});
 
     timer.onDone( function() {
       // TODO: Add sound (and sound disable control)
-
       favicon.badge(1);
       timerTitle.innerHTML = 'STAMINA FILLED!';
       $( '#timeCount' ).addClass( 'text-danger' );
