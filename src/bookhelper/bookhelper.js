@@ -8,15 +8,16 @@ let timeout;
 characterInput.on('keyup', (evt) => {
     const value = evt.target.value;
     const filteredList = fortnights.filter(f => f.name.indexOf(value) > -1);
-    clearTable();
+
 
     if (timeout) {
         clearTimeout(timeout);
     }
-    timeout = setTimeout(() => loadFortnights(filteredList), 500);
+    timeout = setTimeout(() => loadFortnights(filteredList), 200);
 });
 
 function loadFortnights(fortnights) {
+    clearTable();
     let rows = '';
     for (const f of fortnights) {
         let drops = '';
