@@ -1,3 +1,3 @@
-`1.0`
-
-    - Preview version, fortnights and characters
+#1.0
+    
+    -Preview version, fortnights and characters
