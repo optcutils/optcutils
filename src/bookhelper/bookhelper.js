@@ -1,15 +1,34 @@
 const fortnights = require('../../bookhelper/assets/json/fortnights.json').Fortnight;
 
+const unique = (data) => Array.from(new Set(data));
+const characterInput = $('#fortnightName');
+const fortnightsTable = $('#fortnightsTable');
+
+characterInput.on('keyup', (evt) => {
+    const value = evt.target.value;
+
+    const filteredList = fortnights.filter(f => f.name.indexOf(value) > -1);
+
+    clearTable();
+
+    loadFortnights(filteredList);
+});
+
 loadFortnights(fortnights);
 
 function loadFortnights(fortnights) {
     let rows = '';
     for (const f of fortnights) {
         let drops = '';
-        for (const d of f.drops) {
+        const dropList = unique(f.drops);
+        for (const d of dropList) {
             drops += `<img src="https://onepiece-treasurecruise.com/wp-content/uploads/f${d}.png" class="characterImage" />`;
         }
         rows += `<tr><td class="fortnightTitle">${f.name}</td><td class="fortnightCharacters">${drops}</td></tr>`;
     }
-    $('#fortnightsTable').append(rows);
+    fortnightsTable.append(rows);
+}
+
+function clearTable(){
+    fortnightsTable.empty();
 }

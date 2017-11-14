@@ -27,6 +27,8 @@ body {
 
 .fortnights td {
   padding-right: 10px;
+  width: 50%;
+  min-width: 50%;
 }
 
 .characterImage {
@@ -36,4 +38,8 @@ body {
 
 .fortnightTitle {
   font-weight: bold;
+}
+
+#fortnightsTable {
+  width: 60%;
 }
