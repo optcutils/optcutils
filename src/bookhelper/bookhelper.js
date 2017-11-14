@@ -3,18 +3,18 @@ const fortnights = require('../../bookhelper/assets/json/fortnights.json').Fortn
 const unique = (data) => Array.from(new Set(data));
 const characterInput = $('#fortnightName');
 const fortnightsTable = $('#fortnightsTable');
+let timeout;
 
 characterInput.on('keyup', (evt) => {
     const value = evt.target.value;
-
     const filteredList = fortnights.filter(f => f.name.indexOf(value) > -1);
-
     clearTable();
 
-    loadFortnights(filteredList);
+    if (timeout) {
+        clearTimeout(timeout);
+    }
+    timeout = setTimeout(() => loadFortnights(filteredList), 500);
 });
-
-loadFortnights(fortnights);
 
 function loadFortnights(fortnights) {
     let rows = '';
@@ -29,6 +29,11 @@ function loadFortnights(fortnights) {
     fortnightsTable.append(rows);
 }
 
-function clearTable(){
+function clearTable() {
     fortnightsTable.empty();
 }
+
+
+
+loadFortnights(fortnights);
+
