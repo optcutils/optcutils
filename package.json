@@ -4,7 +4,8 @@
   "description": "A collection of One Piece Treasure Cruise utilities.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files bookhelper/*"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,8 @@
     "gulp-git": "^2.4.2",
     "gulp-git-push": "^1.0.1",
     "gulp-minify": "^2.1.0",
+    "jquery": "^3.2.1",
+    "selectize": "^0.12.4",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   }
