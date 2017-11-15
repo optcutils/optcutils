@@ -43,3 +43,48 @@ body {
 #fortnightsTable {
   width: 60%;
 }
+
+.charBoxImage{
+  position: relative;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  display: inline-block;
+}
+
+.charBoxImage img{
+  position: relative;
+  width: 70px;
+  height: 70px;
+  z-index: -1;
+}
+
+a.boxclose{
+  float:right;
+  margin-top:-70px;
+  margin-right: 0px;
+  z-index: 1;
+  cursor:pointer;
+  color: #fff;
+  border: 1px solid #AEAEAE;
+  border-radius: 30px;
+  background: #000000;
+  font-size: 31px;
+  font-weight: bold;
+  display: inline-block;
+  line-height: 0px;
+  padding: 11px 3px;     
+    
+}
+
+
+.boxclose:before {
+  content: "×";
+}
+
+#characterBox{
+  margin: auto;
+  display: block;
+  height: auto;
+  width: 500px;
+}
