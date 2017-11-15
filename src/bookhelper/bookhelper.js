@@ -19,13 +19,32 @@ const unique = (data) => Array.from(new Set(data));
 const fortnightsTable = $('#fortnightsTable');
 const characterNames = $('#characterNames');
 const characterBox = $('#characterBox');
+let charObject = [];
 
+function loadCharacters(){
+    characters.map((e, i) => {
+        charObject.push({ value: i+1 , name: e[0]});
+    });
+    console.log(charObject);
+}
+
+loadCharacters();
 let select = characterNames.selectize({
     closeAfterSelect: true,
     placeholder: 'Select your character',
     allowEmptyOption: true,
     hideSelected: true,
-    onFocus: clearSelect
+    onFocus: clearSelect,
+    options: charObject,
+    valueField: 'value',
+    labelField: 'name',
+    searchField: 'name',
+    sortField: 'value',
+    render: {
+        option: function(item, escape){
+            return '<div><span style="display: inline-block;background-size: 30px 30px;width: 30px; height: 30px; background-image: url(\'https://onepiece-treasurecruise.com/wp-content/uploads/f' + escape(pad(item.value, 4)) + '.png\');" />&nbsp;' + escape(item.name) + '</div>'
+        }
+    }
 });
 
 function clearSelect(){
