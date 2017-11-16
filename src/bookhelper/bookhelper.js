@@ -25,7 +25,6 @@ function loadCharacters(){
     characters.map((e, i) => {
         charObject.push({ value: i+1 , name: e[0]});
     });
-    console.log(charObject);
 }
 
 loadCharacters();
@@ -81,7 +80,7 @@ function loadTable(fortnights, characterList = []) {
     const html = filteredTable
         .map((element) => `
             <tr>
-                <td class="fortnightTitle" style="width=100px"><img src="https://onepiece-treasurecruise.com/wp-content/uploads/f${element.thumb}.png" style="width: 50px; height: 50px; margin-right: 10px;">${element.name}</td>
+                <td class="fortnightTitle"><img src="https://onepiece-treasurecruise.com/wp-content/uploads/f${element.thumb}.png" style="width: 50px; height: 50px; margin-right: 10px;">${element.name}</td>
                 <td class="fortnightCharacters">${filterDrops(unique(element.drops), characterList)}</td>
             </tr>`);
     clearTable(fortnightsTable);
