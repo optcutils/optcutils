@@ -67,10 +67,22 @@ $('#loadButton').on('click', () => {
     popupS.prompt({
         content: 'Paste your data',
         placeholder: '',
+        labelOk: 'Load',
+        flagShowCloseBtn: false,
+        additionalButtonOkClass: 'exportButtons',
+        additionalButtonCancelClass: 'invisibleButton',
+        additionalPopupClass: 'text-center',
         onSubmit: function (data) {
             if (data) {
-                selectedCharacters = new Set(parseSaveData(data));
-                createCharacterBox();
+                let result = parseSaveData(data);
+                if (result === false) {
+                    popupS.alert({ content: 'Pasted data is not valid' });
+                } else {
+                    console.log(result);
+                    selectedCharacters = new Set(result);
+                    console.log(selectedCharacters);
+                    createCharacterBox();
+                }
             } else {
                 popupS.alert({
                     content: 'Invalid data'
@@ -81,11 +93,21 @@ $('#loadButton').on('click', () => {
 });
 
 function parseSaveData(json) {
+    json = typeof json !== 'string'
+        ? JSON.stringify(json)
+        : json;
+
     try {
-        return JSON.parse(json);
+        json = JSON.parse(json);
     } catch (e) {
-        return popupS.alert({ content: 'Pasted data is not valid' });
+        return false;
     }
+
+    if (typeof json === 'object' && json !== null) {
+        return json;
+    }
+
+    return false;
 }
 characterNames.on('change', (evt) => {
     if (evt.target.value != 0) {
@@ -120,6 +142,7 @@ function loadTable(fortnights, characterList = []) {
                 <td class="fortnightTitle"><img src="https://onepiece-treasurecruise.com/wp-content/uploads/f${element.thumb}.png" style="width: 50px; height: 50px; margin-right: 10px;">${element.name}</td>
                 <td class="fortnightCharacters">${filterDrops(unique(element.drops), characterList)}</td>
             </tr>`);
+    console.log('asd');
     clearTable(fortnightsTable);
     fortnightsTable.append(html.join(''));
 }
