@@ -58,7 +58,6 @@ $('#disableNotice').on('click', () => {
 
 $('#saveButton').on('click', () => {
     const saveData = JSON.stringify([...selectedCharacters]);
-    console.log(saveData);
     $('#dataArea').val(saveData);
     return true;
 });
@@ -78,9 +77,7 @@ $('#loadButton').on('click', () => {
                 if (result === false) {
                     popupS.alert({ content: 'Pasted data is not valid' });
                 } else {
-                    console.log(result);
                     selectedCharacters = new Set(result);
-                    console.log(selectedCharacters);
                     createCharacterBox();
                 }
             } else {
@@ -142,7 +139,6 @@ function loadTable(fortnights, characterList = []) {
                 <td class="fortnightTitle"><img src="https://onepiece-treasurecruise.com/wp-content/uploads/f${element.thumb}.png" style="width: 50px; height: 50px; margin-right: 10px;">${element.name}</td>
                 <td class="fortnightCharacters">${filterDrops(unique(element.drops), characterList)}</td>
             </tr>`);
-    console.log('asd');
     clearTable(fortnightsTable);
     fortnightsTable.append(html.join(''));
 }
