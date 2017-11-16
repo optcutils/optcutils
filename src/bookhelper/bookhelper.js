@@ -2,6 +2,7 @@ const fortnights = require('../../bookhelper/assets/json/fortnights.json').Fortn
 const charObject = require('../../bookhelper/assets/json/characters.json');
 const $ = require('jquery');
 const selectize = require('selectize');
+const popupS = require('popups');
 const unique = (data) => Array.from(new Set(data));
 const fortnightsTable = $('#fortnightsTable');
 const characterNames = $('#characterNames');
@@ -40,6 +41,37 @@ function clearSelect() {
     select[0].selectize.clear();
 }
 
+$('#saveButton').on('click', () => {
+    const saveData = JSON.stringify([...selectedCharacters]);
+    console.log(saveData);
+    $('#dataArea').val(saveData);
+    return true;
+});
+
+$('#loadButton').on('click', () => {
+    popupS.prompt({
+        content: 'Paste your data',
+        placeholder: '',
+        onSubmit: function (data) {
+            if (data) {
+                selectedCharacters = new Set(parseSaveData(data));
+                createCharacterBox();
+            } else {
+                popupS.alert({
+                    content: 'Invalid data'
+                });
+            }
+        }
+    });
+});
+
+function parseSaveData(json){
+    try{
+        return JSON.parse(json);
+    }catch (e){
+        return popupS.alert({content:'Pasted data is not valid'});
+    }
+}
 characterNames.on('change', (evt) => {
     if (evt.target.value != 0) {
         selectedCharacters.add(pad(evt.target.value, 4));

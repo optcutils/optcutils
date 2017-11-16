@@ -9,9 +9,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Book Helper - OPTC Utils</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
     <link rel="stylesheet" href="../assets/css/styles.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/selectize.css"/>
+    <link rel="stylesheet" href="assets/css/selectize.css" />
+    <link rel="stylesheet" href="assets/css/popups.css" />
 </head>
 
 <body>
@@ -27,17 +29,26 @@
     <div id="characterBox">
 
     </div>
+    <div class="exportButtons">
+        <a role="button" href="#saveDataModal" id="saveButton" class="btn btn-primary" rel="modal:open">Save data</a>
+        <a role="button" id="loadButton" class="btn btn-primary">Load data</a>
+    </div>
+    <div id="saveDataModal" class="modal">
+        <textarea id="dataArea"></textarea><br/>
+        <a href="#" rel="modal:close" style="text-align: center; display: block;">Close</a>
+    </div>
     <div class="spacer"></div>
     <table style="margin: auto; text-align: center;" class="fortnights" id="fortnightsTable">
     </table>
     <div class="spacer-l"></div>
     <div class="footer">
-        Version 1.2 
-        (<a href="https://github.com/optcutils/optcutils.github.io/blob/master/changelog/BOOKHELPER.md">Changelog</a>) - Made by Kashbel - Open Source 
-        (<a href="https://github.com/optcutils/optcutils.github.io">Github Repo</a>)
+        Version 1.3 (
+        <a href="https://github.com/optcutils/optcutils.github.io/blob/master/changelog/BOOKHELPER.md">Changelog</a>) - Made by Kashbel - Open Source (
+        <a href="https://github.com/optcutils/optcutils.github.io">Github Repo</a>)
     </div>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
     <script src="assets/js/bookhelper.js"></script>
 
 </body>
