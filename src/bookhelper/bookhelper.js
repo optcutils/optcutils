@@ -1,8 +1,11 @@
 const fortnights = require('../../bookhelper/assets/json/fortnights.json').Fortnight;
-const characters = require('../../bookhelper/assets/json/characters.json');
+const charObject = require('../../bookhelper/assets/json/characters.json');
 const $ = require('jquery');
 const selectize = require('selectize');
-
+const unique = (data) => Array.from(new Set(data));
+const fortnightsTable = $('#fortnightsTable');
+const characterNames = $('#characterNames');
+const characterBox = $('#characterBox');
 let selectedCharacters;
 
 if (localStorage.getItem('characters')) {
@@ -15,19 +18,6 @@ function clearTable(fortnightsTable) {
     fortnightsTable.empty();
 }
 
-const unique = (data) => Array.from(new Set(data));
-const fortnightsTable = $('#fortnightsTable');
-const characterNames = $('#characterNames');
-const characterBox = $('#characterBox');
-let charObject = [];
-
-function loadCharacters(){
-    characters.map((e, i) => {
-        charObject.push({ value: i+1 , name: e[0]});
-    });
-}
-
-loadCharacters();
 let select = characterNames.selectize({
     closeAfterSelect: true,
     placeholder: 'Select your character',
@@ -40,13 +30,13 @@ let select = characterNames.selectize({
     searchField: 'name',
     sortField: 'value',
     render: {
-        option: function(item, escape){
+        option: function (item, escape) {
             return '<div><span style="display: inline-block;background-size: 30px 30px;width: 30px; height: 30px; background-image: url(\'https://onepiece-treasurecruise.com/wp-content/uploads/f' + escape(pad(item.value, 4)) + '.png\');" />&nbsp;' + escape(item.name) + '</div>'
         }
     }
 });
 
-function clearSelect(){
+function clearSelect() {
     select[0].selectize.clear();
 }
 
