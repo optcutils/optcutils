@@ -15,6 +15,17 @@ if (localStorage.getItem('characters')) {
     selectedCharacters = new Set();
 }
 
+
+if (!localStorage.getItem('saveNoticeDisabled') || localStorage.getItem('saveNoticeDisabled') === false) {
+    $('#saveNotice').append(`<p><strong>IMPORTANT!</strong> Data is stored on the browser's <i>localStorage</i>, 
+                            which means it will stay there until you delete navigation data (cache, etc).</p>
+                            <p>It's strongly suggested that you save your data periodically to avoid losing it. 
+                            Just click 'Save' and copy the code you will get to a safe place.</p>
+                            <p>If you ever lose your characters, just click 'Load' and paste the code in it.</p>
+                            <p><a id="disableNotice">Hide this message</a>`);
+}
+
+
 function clearTable(fortnightsTable) {
     fortnightsTable.empty();
 }
@@ -40,6 +51,10 @@ let select = characterNames.selectize({
 function clearSelect() {
     select[0].selectize.clear();
 }
+$('#disableNotice').on('click', () => {
+    localStorage.setItem('saveNoticeDisabled', true);
+    $('#saveNotice').remove();
+});
 
 $('#saveButton').on('click', () => {
     const saveData = JSON.stringify([...selectedCharacters]);
@@ -65,11 +80,11 @@ $('#loadButton').on('click', () => {
     });
 });
 
-function parseSaveData(json){
-    try{
+function parseSaveData(json) {
+    try {
         return JSON.parse(json);
-    }catch (e){
-        return popupS.alert({content:'Pasted data is not valid'});
+    } catch (e) {
+        return popupS.alert({ content: 'Pasted data is not valid' });
     }
 }
 characterNames.on('change', (evt) => {
