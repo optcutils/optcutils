@@ -3,13 +3,17 @@ const browserify = require('browserify');
 const source = require('vinyl-source-stream');
 const buffer = require('vinyl-buffer');
 const minify = require('gulp-minify');
-const push = require('gulp-git-push');
 
 const scripts = [
     {
         path: './src/stamina/stamina.js',
         name: 'stamina.js',
         destination: './stamina/assets/js/'
+    },
+    {
+        path: './src/bookhelper/bookhelper.js',
+        name: 'bookhelper.js',
+        destination: './bookhelper/assets/js/'
     }
 ];
 
@@ -21,6 +25,5 @@ gulp.task('scripts', function(){
         .pipe(source(file.name))
         .pipe(buffer())
         .pipe(minify({ext:{min:'.js'}, noSource: true}))
-        .pipe(gulp.dest(file.destination))
-        .pipe(push());
+        .pipe(gulp.dest(file.destination));
 });});
