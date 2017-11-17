@@ -26,7 +26,6 @@ body {
 }
 
 .fortnights td {
-  padding-right: 10px;
   width: 60%;
 }
 
@@ -42,7 +41,7 @@ body {
   padding-bottom: 10px;
 }
 
-#fortnightsTable {
+.fortnights {
   width: 60%;
 }
 
@@ -64,7 +63,7 @@ body {
 a.boxclose{
   float:right;
   margin-top:-70px;
-  margin-right: 0px;
+  margin-right: 0;
   z-index: 1;
   cursor:pointer;
   color: #fff;
@@ -73,8 +72,7 @@ a.boxclose{
   background: #000000;
   font-size: 31px;
   font-weight: bold;
-  display: inline-block;
-  line-height: 0px;
+  line-height: 0;
   padding: 11px 3px;     
     
 }
@@ -87,7 +85,7 @@ a.boxclose:hover{
   content: "×";
 }
 
-#characterBox{
+.characterBox{
   margin: auto;
   display: block;
   height: auto;
@@ -101,7 +99,7 @@ a.boxclose:hover{
   margin-top: 20px;
 }
 
-#dataArea{
+.dataArea{
   resize: none;
   width: 100%;
   height: 100%;
@@ -109,4 +107,14 @@ a.boxclose:hover{
 
 .invisibleButton{
   display: none;
+}
+
+.indexButtons{
+  margin: 5px auto;
+  width: 1000px;
+  text-align: center;
+}
+
+.indexButtons a{
+  width: 200px;
 }

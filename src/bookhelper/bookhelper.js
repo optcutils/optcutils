@@ -1,7 +1,7 @@
 const fortnights = require('../../bookhelper/assets/json/fortnights.json').Fortnight;
 const charObject = require('../../bookhelper/assets/json/characters.json');
 const $ = require('jquery');
-const selectize = require('selectize');
+require('selectize');
 const popupS = require('popups');
 const unique = (data) => Array.from(new Set(data));
 const fortnightsTable = $('#fortnightsTable');
@@ -43,7 +43,25 @@ let select = characterNames.selectize({
     sortField: 'value',
     render: {
         option: function (item, escape) {
-            return '<div><span style="display: inline-block;background-size: 30px 30px;width: 30px; height: 30px; background-image: url(\'https://onepiece-treasurecruise.com/wp-content/uploads/f' + escape(pad(item.value, 4)) + '.png\');" />&nbsp;' + escape(item.name) + '</div>'
+            let color = 'red';
+            switch (item.type) {
+                case 'STR':
+                    color = 'red';
+                    break;
+                case 'DEX':
+                    color = 'green';
+                    break;
+                case 'QCK':
+                    color = 'blue';
+                    break;
+                case 'INT':
+                    color = 'purple';
+                    break;
+                case 'PSY':
+                    color = '#999900';
+                    break;
+            }
+            return '<div style="color: ' + color + ';"><span style="display: inline-block;background-size: 30px 30px;width: 30px; height: 30px; background-image: url(\'https://onepiece-treasurecruise.com/wp-content/uploads/f' + escape(pad(item.value, 4)) + '.png\');" />&nbsp;' + escape(item.name) + '</div>';
         }
     }
 });
@@ -51,6 +69,7 @@ let select = characterNames.selectize({
 function clearSelect() {
     select[0].selectize.clear();
 }
+
 $('#disableNotice').on('click', () => {
     localStorage.setItem('saveNoticeDisabled', true);
     $('#saveNotice').remove();

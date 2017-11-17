@@ -1,1790 +1,2237 @@
 [
     {
-        "value": 3,
-        "name": "Monkey D. Luffy Gum-Gum Bazooka"
+        "value": "0003",
+        "name": "Monkey D. Luffy Gum-Gum Bazooka",
+        "type": "STR"
     },
     {
-        "value": 4,
-        "name": "Monkey D. Luffy Gear 2"
+        "value": "0004",
+        "name": "Monkey D. Luffy Gear 2",
+        "type": "STR"
     },
     {
-        "value": 7,
-        "name": "Roronoa Zoro Pound Phoenix"
+        "value": "0007",
+        "name": "Roronoa Zoro Pound Phoenix",
+        "type": "DEX"
     },
     {
-        "value": 8,
-        "name": "Roronoa Zoro Ashura Ichibugin"
+        "value": "0008",
+        "name": "Roronoa Zoro Ashura Ichibugin",
+        "type": "DEX"
     },
     {
-        "value": 9,
-        "name": "Nami"
+        "value": "0009",
+        "name": "Nami",
+        "type": "INT"
     },
     {
-        "value": 11,
-        "name": "Nami Mirage Tempo"
+        "value": "0011",
+        "name": "Nami Mirage Tempo",
+        "type": "INT"
     },
     {
-        "value": 12,
-        "name": "Nami Thunderbolt Tempo"
+        "value": "0012",
+        "name": "Nami Thunderbolt Tempo",
+        "type": "INT"
     },
     {
-        "value": 15,
-        "name": "Usopp Golden Pound"
+        "value": "0015",
+        "name": "Usopp Golden Pound",
+        "type": "PSY"
     },
     {
-        "value": 16,
-        "name": "Sogeking"
+        "value": "0016",
+        "name": "Sogeking",
+        "type": "PSY"
     },
     {
-        "value": 18,
-        "name": "Sanji Plastic Surgery Shot"
+        "value": "0018",
+        "name": "Sanji Plastic Surgery Shot",
+        "type": "QCK"
     },
     {
-        "value": 19,
-        "name": "Chef Sanji Hot Rock Stew"
+        "value": "0019",
+        "name": "Chef Sanji Hot Rock Stew",
+        "type": "QCK"
     },
     {
-        "value": 20,
-        "name": "Sanji Diable Jambe Flambe"
+        "value": "0020",
+        "name": "Sanji Diable Jambe Flambe",
+        "type": "QCK"
     },
     {
-        "value": 21,
-        "name": "Tony Tony Chopper"
+        "value": "0021",
+        "name": "Tony Tony Chopper",
+        "type": "PSY"
     },
     {
-        "value": 22,
-        "name": "Tony Tony Chopper Heavy Point"
+        "value": "0022",
+        "name": "Tony Tony Chopper Heavy Point",
+        "type": "PSY"
     },
     {
-        "value": 23,
-        "name": "Tony Tony Chopper Brain Point"
+        "value": "0023",
+        "name": "Tony Tony Chopper Brain Point",
+        "type": "INT"
     },
     {
-        "value": 24,
-        "name": "Tony Tony Chopper Arm Point"
+        "value": "0024",
+        "name": "Tony Tony Chopper Arm Point",
+        "type": "STR"
     },
     {
-        "value": 25,
-        "name": "Tony Tony Chopper Horn Point"
+        "value": "0025",
+        "name": "Tony Tony Chopper Horn Point",
+        "type": "QCK"
     },
     {
-        "value": 26,
-        "name": "Tony Tony Chopper Guard Point"
+        "value": "0026",
+        "name": "Tony Tony Chopper Guard Point",
+        "type": "DEX"
     },
     {
-        "value": 30,
-        "name": "Iron-Mace Alvida Smooth-Smooth Fruit"
+        "value": "0030",
+        "name": "Iron-Mace Alvida Smooth-Smooth Fruit",
+        "type": "STR"
     },
     {
-        "value": 32,
-        "name": "Cabin Boy Coby"
+        "value": "0032",
+        "name": "Cabin Boy Coby",
+        "type": "PSY"
     },
     {
-        "value": 34,
-        "name": "Cabin Boy Helmeppo"
+        "value": "0034",
+        "name": "Cabin Boy Helmeppo",
+        "type": "INT"
     },
     {
-        "value": 36,
-        "name": "Mohji & Richie"
+        "value": "0036",
+        "name": "Mohji & Richie",
+        "type": "PSY"
     },
     {
-        "value": 44,
-        "name": "Dancing Django"
+        "value": "0044",
+        "name": "Dancing Django",
+        "type": "DEX"
     },
     {
-        "value": 47,
-        "name": "Yosaku"
+        "value": "0047",
+        "name": "Yosaku",
+        "type": "STR"
     },
     {
-        "value": 50,
-        "name": "Patty"
+        "value": "0050",
+        "name": "Patty",
+        "type": "STR"
     },
     {
-        "value": 52,
-        "name": "Chef Zeff"
+        "value": "0052",
+        "name": "Chef Zeff",
+        "type": "DEX"
     },
     {
-        "value": 54,
-        "name": "Gin the Man-Demon"
+        "value": "0054",
+        "name": "Gin the Man-Demon",
+        "type": "QCK"
     },
     {
-        "value": 56,
-        "name": "Fire Pearl"
+        "value": "0056",
+        "name": "Fire Pearl",
+        "type": "STR"
     },
     {
-        "value": 58,
-        "name": "Don Krieg Poison Gas Bomb MH5"
+        "value": "0058",
+        "name": "Don Krieg Poison Gas Bomb MH5",
+        "type": "INT"
     },
     {
-        "value": 59,
-        "name": "Nezumi"
+        "value": "0059",
+        "name": "Nezumi",
+        "type": "INT"
     },
     {
-        "value": 60,
-        "name": "Momoo"
+        "value": "0060",
+        "name": "Momoo",
+        "type": "STR"
     },
     {
-        "value": 62,
-        "name": "Kuroobi"
+        "value": "0062",
+        "name": "Kuroobi",
+        "type": "STR"
     },
     {
-        "value": 64,
-        "name": "Six-Sword Hachi"
+        "value": "0064",
+        "name": "Six-Sword Hachi",
+        "type": "DEX"
     },
     {
-        "value": 66,
-        "name": "Enraged Arlong Shark On Tooth"
+        "value": "0066",
+        "name": "Enraged Arlong Shark On Tooth",
+        "type": "STR"
     },
     {
-        "value": 68,
-        "name": "Tashigi Navy HQ Ensign"
+        "value": "0068",
+        "name": "Tashigi Navy HQ Ensign",
+        "type": "QCK"
     },
     {
-        "value": 71,
-        "name": "Miss Wednesday"
+        "value": "0071",
+        "name": "Miss Wednesday",
+        "type": "PSY"
     },
     {
-        "value": 73,
-        "name": "Princess Vivi"
+        "value": "0073",
+        "name": "Princess Vivi",
+        "type": "PSY"
     },
     {
-        "value": 74,
-        "name": "Portgas D. Ace"
+        "value": "0074",
+        "name": "Portgas D. Ace",
+        "type": "QCK"
     },
     {
-        "value": 75,
-        "name": "Portgas D. Ace Flame Mirror"
+        "value": "0075",
+        "name": "Portgas D. Ace Flame Mirror",
+        "type": "QCK"
     },
     {
-        "value": 77,
-        "name": "Red-Haired Shanks"
+        "value": "0077",
+        "name": "Red-Haired Shanks",
+        "type": "PSY"
     },
     {
-        "value": 199,
-        "name": "Mr. 5 Nez-Palm Cannon"
+        "value": "0199",
+        "name": "Mr. 5 Nez-Palm Cannon",
+        "type": "STR"
     },
     {
-        "value": 200,
-        "name": "Mr. 5 Breeze Breath Bomb"
+        "value": "0200",
+        "name": "Mr. 5 Breeze Breath Bomb",
+        "type": "STR"
     },
     {
-        "value": 202,
-        "name": "Miss Valentine 10,000 Kilo Guillotine"
+        "value": "0202",
+        "name": "Miss Valentine 10,000 Kilo Guillotine",
+        "type": "QCK"
     },
     {
-        "value": 203,
-        "name": "Mr. 3"
+        "value": "0203",
+        "name": "Mr. 3",
+        "type": "INT"
     },
     {
-        "value": 204,
-        "name": "Mr. 3 Extra Special Candelabra"
+        "value": "0204",
+        "name": "Mr. 3 Extra Special Candelabra",
+        "type": "INT"
     },
     {
-        "value": 206,
-        "name": "Miss Goldenweek Colors Trap: Calming Green"
+        "value": "0206",
+        "name": "Miss Goldenweek Colors Trap: Calming Green",
+        "type": "DEX"
     },
     {
-        "value": 208,
-        "name": "Mr. 2 Bon Clay Bombardier Arabesque"
+        "value": "0208",
+        "name": "Mr. 2 Bon Clay Bombardier Arabesque",
+        "type": "PSY"
     },
     {
-        "value": 209,
-        "name": "Miss All Sunday Baroque Works VP"
+        "value": "0209",
+        "name": "Miss All Sunday Baroque Works VP",
+        "type": "INT"
     },
     {
-        "value": 210,
-        "name": "Nico Robin"
+        "value": "0210",
+        "name": "Nico Robin",
+        "type": "INT"
     },
     {
-        "value": 212,
-        "name": "Mr. 9 Hot Blooded Bat"
+        "value": "0212",
+        "name": "Mr. 9 Hot Blooded Bat",
+        "type": "QCK"
     },
     {
-        "value": 214,
-        "name": "Laboon (Luffy's drawing)"
+        "value": "0214",
+        "name": "Laboon (Luffy's drawing)",
+        "type": "STR"
     },
     {
-        "value": 215,
-        "name": "Neptunian Squid"
+        "value": "0215",
+        "name": "Neptunian Squid",
+        "type": "DEX"
     },
     {
-        "value": 216,
-        "name": "Monkey D. Luffy, Gum-Gum Balloon"
+        "value": "0216",
+        "name": "Monkey D. Luffy, Gum-Gum Balloon",
+        "type": "STR"
     },
     {
-        "value": 217,
-        "name": "Monkey D. Luffy, Gear Third"
+        "value": "0217",
+        "name": "Monkey D. Luffy, Gear Third",
+        "type": "STR"
     },
     {
-        "value": 218,
-        "name": "Roronoa Zoro, Streaming Wolf Swords"
+        "value": "0218",
+        "name": "Roronoa Zoro, Streaming Wolf Swords",
+        "type": "DEX"
     },
     {
-        "value": 219,
-        "name": "Roronoa Zoro, Lion's Song"
+        "value": "0219",
+        "name": "Roronoa Zoro, Lion's Song",
+        "type": "DEX"
     },
     {
-        "value": 221,
-        "name": "Nami, Happiness Punch"
+        "value": "0221",
+        "name": "Nami, Happiness Punch",
+        "type": "INT"
     },
     {
-        "value": 222,
-        "name": "Usopp, Usopp Hammer"
+        "value": "0222",
+        "name": "Usopp, Usopp Hammer",
+        "type": "PSY"
     },
     {
-        "value": 223,
-        "name": "Usopp, Impact"
+        "value": "0223",
+        "name": "Usopp, Impact",
+        "type": "PSY"
     },
     {
-        "value": 225,
-        "name": "Mr. Prince, Veau Shot"
+        "value": "0225",
+        "name": "Mr. Prince, Veau Shot",
+        "type": "QCK"
     },
     {
-        "value": 228,
-        "name": "Escapee Morgan"
+        "value": "0228",
+        "name": "Escapee Morgan",
+        "type": "STR"
     },
     {
-        "value": 229,
-        "name": "Double Crosser Django"
+        "value": "0229",
+        "name": "Double Crosser Django",
+        "type": "PSY"
     },
     {
-        "value": 230,
-        "name": "Double Ironfist Fullbody"
+        "value": "0230",
+        "name": "Double Ironfist Fullbody",
+        "type": "STR"
     },
     {
-        "value": 234,
-        "name": "Mr. 8 Igarappapa"
+        "value": "0234",
+        "name": "Mr. 8 Igarappapa",
+        "type": "PSY"
     },
     {
-        "value": 236,
-        "name": "Miss Monday Superhuman Brass Knuckles"
+        "value": "0236",
+        "name": "Miss Monday Superhuman Brass Knuckles",
+        "type": "STR"
     },
     {
-        "value": 251,
-        "name": "Marco the Phoenix"
+        "value": "0251",
+        "name": "Marco the Phoenix",
+        "type": "PSY"
     },
     {
-        "value": 253,
-        "name": "Diamond Jozu"
+        "value": "0253",
+        "name": "Diamond Jozu",
+        "type": "QCK"
     },
     {
-        "value": 255,
-        "name": "Flower Sword Vista"
+        "value": "0255",
+        "name": "Flower Sword Vista",
+        "type": "INT"
     },
     {
-        "value": 257,
-        "name": "Flintlock Pistols Izo"
+        "value": "0257",
+        "name": "Flintlock Pistols Izo",
+        "type": "DEX"
     },
     {
-        "value": 259,
-        "name": "Blamenco the Mallet"
+        "value": "0259",
+        "name": "Blamenco the Mallet",
+        "type": "STR"
     },
     {
-        "value": 261,
-        "name": "Whitebeard"
+        "value": "0261",
+        "name": "Whitebeard",
+        "type": "STR"
     },
     {
-        "value": 263,
-        "name": "Petty Officer Coby"
+        "value": "0263",
+        "name": "Petty Officer Coby",
+        "type": "PSY"
     },
     {
-        "value": 265,
-        "name": "Sergeant Helmeppo"
+        "value": "0265",
+        "name": "Sergeant Helmeppo",
+        "type": "INT"
     },
     {
-        "value": 290,
-        "name": "Mr. 13 & Ms. Friday The Unluckies"
+        "value": "0290",
+        "name": "Mr. 13 & Ms. Friday The Unluckies",
+        "type": "INT"
     },
     {
-        "value": 291,
-        "name": "Dorry"
+        "value": "0291",
+        "name": "Dorry",
+        "type": "PSY"
     },
     {
-        "value": 292,
-        "name": "Broggy"
+        "value": "0292",
+        "name": "Broggy",
+        "type": "INT"
     },
     {
-        "value": 308,
-        "name": "Trafalgar Law, ROOM"
+        "value": "0308",
+        "name": "Trafalgar Law, ROOM",
+        "type": "DEX"
     },
     {
-        "value": 310,
-        "name": "Basil Hawkins the Magician"
+        "value": "0310",
+        "name": "Basil Hawkins the Magician",
+        "type": "INT"
     },
     {
-        "value": 312,
-        "name": "Massacre Soldier Killer"
+        "value": "0312",
+        "name": "Massacre Soldier Killer",
+        "type": "QCK"
     },
     {
-        "value": 314,
-        "name": "Mad Monk Urouge"
+        "value": "0314",
+        "name": "Mad Monk Urouge",
+        "type": "PSY"
     },
     {
-        "value": 316,
-        "name": "Bepo the Martial Artist"
+        "value": "0316",
+        "name": "Bepo the Martial Artist",
+        "type": "STR"
     },
     {
-        "value": 327,
-        "name": "Wapol House"
+        "value": "0327",
+        "name": "Wapol House",
+        "type": "STR"
     },
     {
-        "value": 329,
-        "name": "Dalton Bison"
+        "value": "0329",
+        "name": "Dalton Bison",
+        "type": "QCK"
     },
     {
-        "value": 332,
-        "name": "Chessmarimo"
+        "value": "0332",
+        "name": "Chessmarimo",
+        "type": "DEX"
     },
     {
-        "value": 333,
-        "name": "Dr. Kureha"
+        "value": "0333",
+        "name": "Dr. Kureha",
+        "type": "PSY"
     },
     {
-        "value": 335,
-        "name": "Lapin Adult"
+        "value": "0335",
+        "name": "Lapin Adult",
+        "type": "INT"
     },
     {
-        "value": 338,
-        "name": "Kiwi"
+        "value": "0338",
+        "name": "Kiwi",
+        "type": "PSY"
     },
     {
-        "value": 339,
-        "name": "Mozu"
+        "value": "0339",
+        "name": "Mozu",
+        "type": "PSY"
     },
     {
-        "value": 357,
-        "name": "Captain Kid"
+        "value": "0357",
+        "name": "Captain Kid",
+        "type": "STR"
     },
     {
-        "value": 359,
-        "name": "Roar of the Sea Scratchmen Apoo"
+        "value": "0359",
+        "name": "Roar of the Sea Scratchmen Apoo",
+        "type": "DEX"
     },
     {
-        "value": 361,
-        "name": "Red Flag X Drake"
+        "value": "0361",
+        "name": "Red Flag X Drake",
+        "type": "INT"
     },
     {
-        "value": 363,
-        "name": "Big Eater Jewelry Bonney"
+        "value": "0363",
+        "name": "Big Eater Jewelry Bonney",
+        "type": "PSY"
     },
     {
-        "value": 365,
-        "name": "Capone Gang Bege"
+        "value": "0365",
+        "name": "Capone Gang Bege",
+        "type": "QCK"
     },
     {
-        "value": 367,
-        "name": "Dark King Rayleigh"
+        "value": "0367",
+        "name": "Dark King Rayleigh",
+        "type": "INT"
     },
     {
-        "value": 368,
-        "name": "Giant Slasher Red Pirates"
+        "value": "0368",
+        "name": "Giant Slasher Red Pirates",
+        "type": "STR"
     },
     {
-        "value": 370,
-        "name": "Giant Warrior Green Pirates"
+        "value": "0370",
+        "name": "Giant Warrior Green Pirates",
+        "type": "DEX"
     },
     {
-        "value": 371,
-        "name": "Giant Fighter Yellow Pirates"
+        "value": "0371",
+        "name": "Giant Fighter Yellow Pirates",
+        "type": "PSY"
     },
     {
-        "value": 372,
-        "name": "Giant Striker Black Pirates"
+        "value": "0372",
+        "name": "Giant Striker Black Pirates",
+        "type": "INT"
     },
     {
-        "value": 374,
-        "name": "Giant Imperial Shooter Blue Pirates"
+        "value": "0374",
+        "name": "Giant Imperial Shooter Blue Pirates",
+        "type": "QCK"
     },
     {
-        "value": 378,
-        "name": "Sea Cat"
+        "value": "0378",
+        "name": "Sea Cat",
+        "type": "PSY"
     },
     {
-        "value": 380,
-        "name": "Kung Fu Dugong Faithful Apprentice"
+        "value": "0380",
+        "name": "Kung Fu Dugong Faithful Apprentice",
+        "type": "STR"
     },
     {
-        "value": 384,
-        "name": "Sir Crocodile"
+        "value": "0384",
+        "name": "Sir Crocodile",
+        "type": "INT"
     },
     {
-        "value": 388,
-        "name": "Victoria Cindry"
+        "value": "0388",
+        "name": "Victoria Cindry",
+        "type": "PSY"
     },
     {
-        "value": 393,
-        "name": "Kumacy"
+        "value": "0393",
+        "name": "Kumacy",
+        "type": "STR"
     },
     {
-        "value": 394,
-        "name": "Dog Penguin"
+        "value": "0394",
+        "name": "Dog Penguin",
+        "type": "QCK"
     },
     {
-        "value": 396,
-        "name": "Miss Merry Christmas Human Mole"
+        "value": "0396",
+        "name": "Miss Merry Christmas Human Mole",
+        "type": "QCK"
     },
     {
-        "value": 398,
-        "name": "Mr. 4 and Lassoo the Dog-Gun"
+        "value": "0398",
+        "name": "Mr. 4 and Lassoo the Dog-Gun",
+        "type": "STR"
     },
     {
-        "value": 400,
-        "name": "Miss Doublefinger Human Spike"
+        "value": "0400",
+        "name": "Miss Doublefinger Human Spike",
+        "type": "DEX"
     },
     {
-        "value": 402,
-        "name": "Mr. 1 Human Sword"
+        "value": "0402",
+        "name": "Mr. 1 Human Sword",
+        "type": "STR"
     },
     {
-        "value": 406,
-        "name": "General Zombie"
+        "value": "0406",
+        "name": "General Zombie",
+        "type": "INT"
     },
     {
-        "value": 407,
-        "name": "Jigoro of the Wind"
+        "value": "0407",
+        "name": "Jigoro of the Wind",
+        "type": "DEX"
     },
     {
-        "value": 408,
-        "name": "Sir Crocodile Warlord of the Sea"
+        "value": "0408",
+        "name": "Sir Crocodile Warlord of the Sea",
+        "type": "INT"
     },
     {
-        "value": 410,
-        "name": "Jinbe, Warlord of the Sea"
+        "value": "0410",
+        "name": "Jinbe, Warlord of the Sea",
+        "type": "QCK"
     },
     {
-        "value": 412,
-        "name": "Bartholomew Kuma Warlord of the Sea"
+        "value": "0412",
+        "name": "Bartholomew Kuma Warlord of the Sea",
+        "type": "STR"
     },
     {
-        "value": 414,
-        "name": "Gecko Moria Warlord of the Sea"
+        "value": "0414",
+        "name": "Gecko Moria Warlord of the Sea",
+        "type": "INT"
     },
     {
-        "value": 416,
-        "name": "Boa Hancock Warlord of the Sea"
+        "value": "0416",
+        "name": "Boa Hancock Warlord of the Sea",
+        "type": "QCK"
     },
     {
-        "value": 422,
-        "name": "Nami Mirage Tempo: The Heavens"
+        "value": "0422",
+        "name": "Nami Mirage Tempo: The Heavens",
+        "type": "INT"
     },
     {
-        "value": 425,
-        "name": "Ryuma"
+        "value": "0425",
+        "name": "Ryuma",
+        "type": "PSY"
     },
     {
-        "value": 426,
-        "name": "Masira"
+        "value": "0426",
+        "name": "Masira",
+        "type": "STR"
     },
     {
-        "value": 428,
-        "name": "Montblanc Cricket"
+        "value": "0428",
+        "name": "Montblanc Cricket",
+        "type": "PSY"
     },
     {
-        "value": 429,
-        "name": "South Bird and Forest Residents"
+        "value": "0429",
+        "name": "South Bird and Forest Residents",
+        "type": "DEX"
     },
     {
-        "value": 431,
-        "name": "Bellamy the Hyena"
+        "value": "0431",
+        "name": "Bellamy the Hyena",
+        "type": "DEX"
     },
     {
-        "value": 432,
-        "name": "Sarquiss"
+        "value": "0432",
+        "name": "Sarquiss",
+        "type": "QCK"
     },
     {
-        "value": 449,
-        "name": "Twin-Blade Thatch"
+        "value": "0449",
+        "name": "Twin-Blade Thatch",
+        "type": "QCK"
     },
     {
-        "value": 451,
-        "name": "One-Hit Namule"
+        "value": "0451",
+        "name": "One-Hit Namule",
+        "type": "DEX"
     },
     {
-        "value": 453,
-        "name": "Morning Star Rakuyo"
+        "value": "0453",
+        "name": "Morning Star Rakuyo",
+        "type": "PSY"
     },
     {
-        "value": 455,
-        "name": "Fossa the Blazing Katana"
+        "value": "0455",
+        "name": "Fossa the Blazing Katana",
+        "type": "STR"
     },
     {
-        "value": 457,
-        "name": "Heavy Artillery Curiel"
+        "value": "0457",
+        "name": "Heavy Artillery Curiel",
+        "type": "INT"
     },
     {
-        "value": 459,
-        "name": "Sengoku the Buddha"
+        "value": "0459",
+        "name": "Sengoku the Buddha",
+        "type": "PSY"
     },
     {
-        "value": 463,
-        "name": "Satori"
+        "value": "0463",
+        "name": "Satori",
+        "type": "PSY"
     },
     {
-        "value": 464,
-        "name": "Shura"
+        "value": "0464",
+        "name": "Shura",
+        "type": "INT"
     },
     {
-        "value": 465,
-        "name": "Gedatsu"
+        "value": "0465",
+        "name": "Gedatsu",
+        "type": "QCK"
     },
     {
-        "value": 466,
-        "name": "Braham"
+        "value": "0466",
+        "name": "Braham",
+        "type": "DEX"
     },
     {
-        "value": 467,
-        "name": "Yama"
+        "value": "0467",
+        "name": "Yama",
+        "type": "STR"
     },
     {
-        "value": 500,
-        "name": "Bellmere, Nami and Nojiko's Mother"
+        "value": "0500",
+        "name": "Bellmere, Nami and Nojiko's Mother",
+        "type": "DEX"
     },
     {
-        "value": 502,
-        "name": "Kaya, A rich young girl from Syrup Village"
+        "value": "0502",
+        "name": "Kaya, A rich young girl from Syrup Village",
+        "type": "PSY"
     },
     {
-        "value": 504,
-        "name": "Hotori and Kotori, Skypiea Vice Head Enforcers"
+        "value": "0504",
+        "name": "Hotori and Kotori, Skypiea Vice Head Enforcers",
+        "type": "INT"
     },
     {
-        "value": 506,
-        "name": "Pell, The guardian falcon of Alabasta"
+        "value": "0506",
+        "name": "Pell, The guardian falcon of Alabasta",
+        "type": "QCK"
     },
     {
-        "value": 508,
-        "name": "Chaka, The guardian jackal of Alabasta"
+        "value": "0508",
+        "name": "Chaka, The guardian jackal of Alabasta",
+        "type": "STR"
     },
     {
-        "value": 520,
-        "name": "Monkey D. Luffy, Straw Hat Pirates' Attack"
+        "value": "0520",
+        "name": "Monkey D. Luffy, Straw Hat Pirates' Attack",
+        "type": "STR"
     },
     {
-        "value": 522,
-        "name": "Sanji, Straw Hat Pirates' Attack"
+        "value": "0522",
+        "name": "Sanji, Straw Hat Pirates' Attack",
+        "type": "INT"
     },
     {
-        "value": 524,
-        "name": "Nami and Billy the Thunder Bird"
+        "value": "0524",
+        "name": "Nami and Billy the Thunder Bird",
+        "type": "QCK"
     },
     {
-        "value": 526,
-        "name": "Brook, Straw Hat Pirates' Attack"
+        "value": "0526",
+        "name": "Brook, Straw Hat Pirates' Attack",
+        "type": "PSY"
     },
     {
-        "value": 528,
-        "name": "Chopper, Straw Hat Pirates' Attack"
+        "value": "0528",
+        "name": "Chopper, Straw Hat Pirates' Attack",
+        "type": "DEX"
     },
     {
-        "value": 530,
-        "name": "Shanks, Black Clad Emperor"
+        "value": "0530",
+        "name": "Shanks, Black Clad Emperor",
+        "type": "PSY"
     },
     {
-        "value": 539,
-        "name": "Minorhinoceros"
+        "value": "0539",
+        "name": "Minorhinoceros",
+        "type": "STR"
     },
     {
-        "value": 541,
-        "name": "Ohm"
+        "value": "0541",
+        "name": "Ohm",
+        "type": "STR"
     },
     {
-        "value": 542,
-        "name": "Nola, Giant Snake"
+        "value": "0542",
+        "name": "Nola, Giant Snake",
+        "type": "PSY"
     },
     {
-        "value": 544,
-        "name": "Wyper, Descendant of Great Warrior Calgara"
+        "value": "0544",
+        "name": "Wyper, Descendant of Great Warrior Calgara",
+        "type": "DEX"
     },
     {
-        "value": 546,
-        "name": "Kami Eneru"
+        "value": "0546",
+        "name": "Kami Eneru",
+        "type": "PSY"
     },
     {
-        "value": 551,
-        "name": "Minokoala"
+        "value": "0551",
+        "name": "Minokoala",
+        "type": "STR"
     },
     {
-        "value": 552,
-        "name": "Manticore"
+        "value": "0552",
+        "name": "Manticore",
+        "type": "QCK"
     },
     {
-        "value": 554,
-        "name": "Roronoa Zoro, Straw Hat Pirates' Attack"
+        "value": "0554",
+        "name": "Roronoa Zoro, Straw Hat Pirates' Attack",
+        "type": "DEX"
     },
     {
-        "value": 556,
-        "name": "Usopp, Straw Hat Pirates' Attack"
+        "value": "0556",
+        "name": "Usopp, Straw Hat Pirates' Attack",
+        "type": "QCK"
     },
     {
-        "value": 558,
-        "name": "Nico Robin, Straw Hat Pirates' Attack"
+        "value": "0558",
+        "name": "Nico Robin, Straw Hat Pirates' Attack",
+        "type": "INT"
     },
     {
-        "value": 560,
-        "name": "Franky, Straw Hat Pirates' Attack"
+        "value": "0560",
+        "name": "Franky, Straw Hat Pirates' Attack",
+        "type": "STR"
     },
     {
-        "value": 562,
-        "name": "Portgas D. Ace, Black Clad Division Commander"
+        "value": "0562",
+        "name": "Portgas D. Ace, Black Clad Division Commander",
+        "type": "DEX"
     },
     {
-        "value": 563,
-        "name": "Porche"
+        "value": "0563",
+        "name": "Porche",
+        "type": "PSY"
     },
     {
-        "value": 564,
-        "name": "Capote"
+        "value": "0564",
+        "name": "Capote",
+        "type": "QCK"
     },
     {
-        "value": 565,
-        "name": "Hamburg"
+        "value": "0565",
+        "name": "Hamburg",
+        "type": "DEX"
     },
     {
-        "value": 566,
-        "name": "Pickles"
+        "value": "0566",
+        "name": "Pickles",
+        "type": "QCK"
     },
     {
-        "value": 567,
-        "name": "Big Bun"
+        "value": "0567",
+        "name": "Big Bun",
+        "type": "STR"
     },
     {
-        "value": 569,
-        "name": "The Silver Fox Foxy"
+        "value": "0569",
+        "name": "The Silver Fox Foxy",
+        "type": "INT"
     },
     {
-        "value": 578,
-        "name": "Monkey D. Luffy, Voyage Dream: Pirate King"
+        "value": "0578",
+        "name": "Monkey D. Luffy, Voyage Dream: Pirate King",
+        "type": "STR"
     },
     {
-        "value": 584,
-        "name": "Aisa"
+        "value": "0584",
+        "name": "Aisa",
+        "type": "PSY"
     },
     {
-        "value": 586,
-        "name": "Nojiko, Nami's Sister"
+        "value": "0586",
+        "name": "Nojiko, Nami's Sister",
+        "type": "PSY"
     },
     {
-        "value": 587,
-        "name": "Crocus"
+        "value": "0587",
+        "name": "Crocus",
+        "type": "INT"
     },
     {
-        "value": 588,
-        "name": "Crocus, Twin Cape Lighthouse Keeper"
+        "value": "0588",
+        "name": "Crocus, Twin Cape Lighthouse Keeper",
+        "type": "INT"
     },
     {
-        "value": 590,
-        "name": "Koza, Rebel Leader"
+        "value": "0590",
+        "name": "Koza, Rebel Leader",
+        "type": "QCK"
     },
     {
-        "value": 610,
-        "name": "Hiking Bear"
+        "value": "0610",
+        "name": "Hiking Bear",
+        "type": "INT"
     },
     {
-        "value": 611,
-        "name": "Purinpurin"
+        "value": "0611",
+        "name": "Purinpurin",
+        "type": "PSY"
     },
     {
-        "value": 614,
-        "name": "Zambai"
+        "value": "0614",
+        "name": "Zambai",
+        "type": "PSY"
     },
     {
-        "value": 615,
-        "name": "Demolisher Axeman"
+        "value": "0615",
+        "name": "Demolisher Axeman",
+        "type": "STR"
     },
     {
-        "value": 616,
-        "name": "Demolisher Spearman"
+        "value": "0616",
+        "name": "Demolisher Spearman",
+        "type": "STR"
     },
     {
-        "value": 617,
-        "name": "Demolisher Gunner"
+        "value": "0617",
+        "name": "Demolisher Gunner",
+        "type": "STR"
     },
     {
-        "value": 628,
-        "name": "Tilestone"
+        "value": "0628",
+        "name": "Tilestone",
+        "type": "STR"
     },
     {
-        "value": 629,
-        "name": "Franky, Franky Family"
+        "value": "0629",
+        "name": "Franky, Franky Family",
+        "type": "INT"
     },
     {
-        "value": 631,
-        "name": "Kaku: Six Powers, Cipher Pol No. 9"
+        "value": "0631",
+        "name": "Kaku: Six Powers, Cipher Pol No. 9",
+        "type": "QCK"
     },
     {
-        "value": 633,
-        "name": "Rob Lucci: Six Powers, Cipher Pol No. 9"
+        "value": "0633",
+        "name": "Rob Lucci: Six Powers, Cipher Pol No. 9",
+        "type": "STR"
     },
     {
-        "value": 636,
-        "name": "Pappagu"
+        "value": "0636",
+        "name": "Pappagu",
+        "type": "INT"
     },
     {
-        "value": 639,
-        "name": "Bohemian Knight Doma"
+        "value": "0639",
+        "name": "Bohemian Knight Doma",
+        "type": "QCK"
     },
     {
-        "value": 641,
-        "name": "DeCalvan Brothers, Brothers' Bond"
+        "value": "0641",
+        "name": "DeCalvan Brothers, Brothers' Bond",
+        "type": "DEX"
     },
     {
-        "value": 643,
-        "name": "Maelstrom Spider Squard"
+        "value": "0643",
+        "name": "Maelstrom Spider Squard",
+        "type": "PSY"
     },
     {
-        "value": 645,
-        "name": "Ice Witch Whitey Bay"
+        "value": "0645",
+        "name": "Ice Witch Whitey Bay",
+        "type": "INT"
     },
     {
-        "value": 647,
-        "name": "Little Oars Jr., Charging!"
+        "value": "0647",
+        "name": "Little Oars Jr., Charging!",
+        "type": "STR"
     },
     {
-        "value": 649,
-        "name": "Marco the Phoenix Whitebeard 1st Div. Commander"
+        "value": "0649",
+        "name": "Marco the Phoenix Whitebeard 1st Div. Commander",
+        "type": "QCK"
     },
     {
-        "value": 658,
-        "name": "Choo, Sun Pirates"
+        "value": "0658",
+        "name": "Choo, Sun Pirates",
+        "type": "INT"
     },
     {
-        "value": 667,
-        "name": "Nefeltari Cobra, King of Alabasta Kingdom"
+        "value": "0667",
+        "name": "Nefeltari Cobra, King of Alabasta Kingdom",
+        "type": "PSY"
     },
     {
-        "value": 669,
-        "name": "Sabo the Revolutionary"
+        "value": "0669",
+        "name": "Sabo the Revolutionary",
+        "type": "PSY"
     },
     {
-        "value": 671,
-        "name": "Koala the Revolutionary"
+        "value": "0671",
+        "name": "Koala the Revolutionary",
+        "type": "DEX"
     },
     {
-        "value": 673,
-        "name": "Hack, Revolutionary Army"
+        "value": "0673",
+        "name": "Hack, Revolutionary Army",
+        "type": "STR"
     },
     {
-        "value": 675,
-        "name": "Emporio Ivankov, Revolutionary Army"
+        "value": "0675",
+        "name": "Emporio Ivankov, Revolutionary Army",
+        "type": "INT"
     },
     {
-        "value": 677,
-        "name": "Inazuma the Revolutionary"
+        "value": "0677",
+        "name": "Inazuma the Revolutionary",
+        "type": "QCK"
     },
     {
-        "value": 701,
-        "name": "Oimo"
+        "value": "0701",
+        "name": "Oimo",
+        "type": "PSY"
     },
     {
-        "value": 702,
-        "name": "Kashii"
+        "value": "0702",
+        "name": "Kashii",
+        "type": "INT"
     },
     {
-        "value": 703,
-        "name": "Watchdog Unit of the Law"
+        "value": "0703",
+        "name": "Watchdog Unit of the Law",
+        "type": "QCK"
     },
     {
-        "value": 704,
-        "name": "Righteous Juror"
+        "value": "0704",
+        "name": "Righteous Juror",
+        "type": "STR"
     },
     {
-        "value": 705,
-        "name": "Three-Headed Baskerville"
+        "value": "0705",
+        "name": "Three-Headed Baskerville",
+        "type": "DEX"
     },
     {
-        "value": 707,
-        "name": "Blueno: Six Powers, Cipher Pol No. 9"
+        "value": "0707",
+        "name": "Blueno: Six Powers, Cipher Pol No. 9",
+        "type": "STR"
     },
     {
-        "value": 709,
-        "name": "Nico Robin, Straw Hat Pirates"
+        "value": "0709",
+        "name": "Nico Robin, Straw Hat Pirates",
+        "type": "PSY"
     },
     {
-        "value": 716,
-        "name": "Conis, Skypiea Girl"
+        "value": "0716",
+        "name": "Conis, Skypiea Girl",
+        "type": "PSY"
     },
     {
-        "value": 718,
-        "name": "'Hawk Eyes' Mihawk, World's Strongest Swordsman"
+        "value": "0718",
+        "name": "'Hawk Eyes' Mihawk, World's Strongest Swordsman",
+        "type": "INT"
     },
     {
-        "value": 720,
-        "name": "Sir Crocodile: Logia, Ex-Warlord of the Sea"
+        "value": "0720",
+        "name": "Sir Crocodile: Logia, Ex-Warlord of the Sea",
+        "type": "DEX"
     },
     {
-        "value": 729,
-        "name": "Kalifa: Six Powers, Cipher Pol No. 9"
+        "value": "0729",
+        "name": "Kalifa: Six Powers, Cipher Pol No. 9",
+        "type": "DEX"
     },
     {
-        "value": 731,
-        "name": "Jabra: Six Powers, Cipher Pol No. 9"
+        "value": "0731",
+        "name": "Jabra: Six Powers, Cipher Pol No. 9",
+        "type": "INT"
     },
     {
-        "value": 733,
-        "name": "Fukuro: Six Powers, Cipher Pol No. 9"
+        "value": "0733",
+        "name": "Fukuro: Six Powers, Cipher Pol No. 9",
+        "type": "STR"
     },
     {
-        "value": 735,
-        "name": "Kumadori: Six Powers, Cipher Pol No. 9"
+        "value": "0735",
+        "name": "Kumadori: Six Powers, Cipher Pol No. 9",
+        "type": "PSY"
     },
     {
-        "value": 736,
-        "name": "Kaku: Beastman, Ox-Ox Fruit, Model: Giraffe"
+        "value": "0736",
+        "name": "Kaku: Beastman, Ox-Ox Fruit, Model: Giraffe",
+        "type": "STR"
     },
     {
-        "value": 737,
-        "name": "Lucci: Beastman, Cat-Cat Fruit, Model: Leopard"
+        "value": "0737",
+        "name": "Lucci: Beastman, Cat-Cat Fruit, Model: Leopard",
+        "type": "QCK"
     },
     {
-        "value": 738,
-        "name": "Spandam"
+        "value": "0738",
+        "name": "Spandam",
+        "type": "INT"
     },
     {
-        "value": 739,
-        "name": "Franky, Straw Hat Pirates"
+        "value": "0739",
+        "name": "Franky, Straw Hat Pirates",
+        "type": "INT"
     },
     {
-        "value": 748,
-        "name": "Rob Lucci, CP9's Strongest"
+        "value": "0748",
+        "name": "Rob Lucci, CP9's Strongest",
+        "type": "STR"
     },
     {
-        "value": 750,
-        "name": "Kaku, CP9's Strongest"
+        "value": "0750",
+        "name": "Kaku, CP9's Strongest",
+        "type": "DEX"
     },
     {
-        "value": 752,
-        "name": "Kalifa, CP9's Strongest"
+        "value": "0752",
+        "name": "Kalifa, CP9's Strongest",
+        "type": "QCK"
     },
     {
-        "value": 754,
-        "name": "Jabra, CP9's Strongest"
+        "value": "0754",
+        "name": "Jabra, CP9's Strongest",
+        "type": "QCK"
     },
     {
-        "value": 756,
-        "name": "Blueno, CP9's Strongest"
+        "value": "0756",
+        "name": "Blueno, CP9's Strongest",
+        "type": "INT"
     },
     {
-        "value": 758,
-        "name": "Fukuro, CP9's Strongest"
+        "value": "0758",
+        "name": "Fukuro, CP9's Strongest",
+        "type": "PSY"
     },
     {
-        "value": 760,
-        "name": "Kumadori, CP9's Strongest"
+        "value": "0760",
+        "name": "Kumadori, CP9's Strongest",
+        "type": "STR"
     },
     {
-        "value": 785,
-        "name": "Genzo, Cocoyasi Village Resident"
+        "value": "0785",
+        "name": "Genzo, Cocoyasi Village Resident",
+        "type": "STR"
     },
     {
-        "value": 787,
-        "name": "Dr. Hiriluk, Quack Doctor"
+        "value": "0787",
+        "name": "Dr. Hiriluk, Quack Doctor",
+        "type": "PSY"
     },
     {
-        "value": 789,
-        "name": "Kuina, Shimotsuki Village's Girl Swordsman"
+        "value": "0789",
+        "name": "Kuina, Shimotsuki Village's Girl Swordsman",
+        "type": "DEX"
     },
     {
-        "value": 791,
-        "name": "Onion, Pepper & Carrot, the Usopp Pirates"
+        "value": "0791",
+        "name": "Onion, Pepper & Carrot, the Usopp Pirates",
+        "type": "QCK"
     },
     {
-        "value": 793,
-        "name": "Iceburg, Mayor of W7 and President of Galley-La Company"
+        "value": "0793",
+        "name": "Iceburg, Mayor of W7 and President of Galley-La Company",
+        "type": "INT"
     },
     {
-        "value": 800,
-        "name": "Octopus Boxer, Sea Animal Pirates"
+        "value": "0800",
+        "name": "Octopus Boxer, Sea Animal Pirates",
+        "type": "STR"
     },
     {
-        "value": 811,
-        "name": "Risky Brothers"
+        "value": "0811",
+        "name": "Risky Brothers",
+        "type": "DEX"
     },
     {
-        "value": 812,
-        "name": "Cerberus"
+        "value": "0812",
+        "name": "Cerberus",
+        "type": "QCK"
     },
     {
-        "value": 813,
-        "name": "Taralan"
+        "value": "0813",
+        "name": "Taralan",
+        "type": "INT"
     },
     {
-        "value": 814,
-        "name": "Bear Skin Rug"
+        "value": "0814",
+        "name": "Bear Skin Rug",
+        "type": "DEX"
     },
     {
-        "value": 816,
-        "name": "Gecko Moria, Thriller Bark Ruler"
+        "value": "0816",
+        "name": "Gecko Moria, Thriller Bark Ruler",
+        "type": "INT"
     },
     {
-        "value": 838,
-        "name": "Master Caesar"
+        "value": "0838",
+        "name": "Master Caesar",
+        "type": "DEX"
     },
     {
-        "value": 840,
-        "name": "Vergo, Donquixote Pirates"
+        "value": "0840",
+        "name": "Vergo, Donquixote Pirates",
+        "type": "INT"
     },
     {
-        "value": 842,
-        "name": "Monet, Donquixote Pirates"
+        "value": "0842",
+        "name": "Monet, Donquixote Pirates",
+        "type": "PSY"
     },
     {
-        "value": 844,
-        "name": "Baby 5, Donquixote Pirates"
+        "value": "0844",
+        "name": "Baby 5, Donquixote Pirates",
+        "type": "STR"
     },
     {
-        "value": 846,
-        "name": "Buffalo, Donquixote Pirates"
+        "value": "0846",
+        "name": "Buffalo, Donquixote Pirates",
+        "type": "QCK"
     },
     {
-        "value": 849,
-        "name": "Cutty Flam, Tom's Workers"
+        "value": "0849",
+        "name": "Cutty Flam, Tom's Workers",
+        "type": "STR"
     },
     {
-        "value": 854,
-        "name": "Chopper's Snow Day"
+        "value": "0854",
+        "name": "Chopper's Snow Day",
+        "type": "DEX"
     },
     {
-        "value": 870,
-        "name": "Heavenly Yaksha Donquixote Doflamingo"
+        "value": "0870",
+        "name": "Heavenly Yaksha Donquixote Doflamingo",
+        "type": "QCK"
     },
     {
-        "value": 872,
-        "name": "Sugar, Donquixote Pirates"
+        "value": "0872",
+        "name": "Sugar, Donquixote Pirates",
+        "type": "QCK"
     },
     {
-        "value": 874,
-        "name": "Señor Pink, Donquixote Pirates"
+        "value": "0874",
+        "name": "Señor Pink, Donquixote Pirates",
+        "type": "PSY"
     },
     {
-        "value": 876,
-        "name": "Trebol, Donquixote Pirates"
+        "value": "0876",
+        "name": "Trebol, Donquixote Pirates",
+        "type": "INT"
     },
     {
-        "value": 878,
-        "name": "Giolla, Donquixote Pirates"
+        "value": "0878",
+        "name": "Giolla, Donquixote Pirates",
+        "type": "DEX"
     },
     {
-        "value": 880,
-        "name": "Lao G., Donquixote Pirates"
+        "value": "0880",
+        "name": "Lao G., Donquixote Pirates",
+        "type": "STR"
     },
     {
-        "value": 887,
-        "name": "Buggy, Cheerfully Crazy"
+        "value": "0887",
+        "name": "Buggy, Cheerfully Crazy",
+        "type": "QCK"
     },
     {
-        "value": 888,
-        "name": "Horo Horo Ghost"
+        "value": "0888",
+        "name": "Horo Horo Ghost",
+        "type": "PSY"
     },
     {
-        "value": 890,
-        "name": "Perona, Giant Ghost Princess"
+        "value": "0890",
+        "name": "Perona, Giant Ghost Princess",
+        "type": "DEX"
     },
     {
-        "value": 891,
-        "name": "Doctor Hogback, Thriller Bark Demon"
+        "value": "0891",
+        "name": "Doctor Hogback, Thriller Bark Demon",
+        "type": "INT"
     },
     {
-        "value": 892,
-        "name": "Absalom of the Graveyard, Thriller Bark Demon"
+        "value": "0892",
+        "name": "Absalom of the Graveyard, Thriller Bark Demon",
+        "type": "STR"
     },
     {
-        "value": 893,
-        "name": "Oars, Special Zombie"
+        "value": "0893",
+        "name": "Oars, Special Zombie",
+        "type": "STR"
     },
     {
-        "value": 894,
-        "name": "Gecko Moria, Shadows' Asgard"
+        "value": "0894",
+        "name": "Gecko Moria, Shadows' Asgard",
+        "type": "INT"
     },
     {
-        "value": 896,
-        "name": "Brook, Straw Hat Pirates"
+        "value": "0896",
+        "name": "Brook, Straw Hat Pirates",
+        "type": "DEX"
     },
     {
-        "value": 899,
-        "name": "Mr. 2 Bon Clay, Dubious Samurai"
+        "value": "0899",
+        "name": "Mr. 2 Bon Clay, Dubious Samurai",
+        "type": "INT"
     },
     {
-        "value": 906,
-        "name": "Roronoa Zoro, Pupil of the World's Strongest Swordsman"
+        "value": "0906",
+        "name": "Roronoa Zoro, Pupil of the World's Strongest Swordsman",
+        "type": "STR"
     },
     {
-        "value": 908,
-        "name": "Nico Robin, Flame of the Revolution"
+        "value": "0908",
+        "name": "Nico Robin, Flame of the Revolution",
+        "type": "INT"
     },
     {
-        "value": 910,
-        "name": "Chopper Mask, Defender of Peace"
+        "value": "0910",
+        "name": "Chopper Mask, Defender of Peace",
+        "type": "PSY"
     },
     {
-        "value": 912,
-        "name": "Sanji, Chef of Love"
+        "value": "0912",
+        "name": "Sanji, Chef of Love",
+        "type": "DEX"
     },
     {
-        "value": 914,
-        "name": "Brook, BONE to be Wild!!!"
+        "value": "0914",
+        "name": "Brook, BONE to be Wild!!!",
+        "type": "QCK"
     },
     {
-        "value": 920,
-        "name": "Sweetpea"
+        "value": "0920",
+        "name": "Sweetpea",
+        "type": "STR"
     },
     {
-        "value": 930,
-        "name": "Saldeath"
+        "value": "0930",
+        "name": "Saldeath",
+        "type": "INT"
     },
     {
-        "value": 935,
-        "name": "Knight of the Sea Jinbe, Warlord of the Sea"
+        "value": "0935",
+        "name": "Knight of the Sea Jinbe, Warlord of the Sea",
+        "type": "INT"
     },
     {
-        "value": 937,
-        "name": "Monkey D. Luffy, Crew's Promise: 3D2Y"
+        "value": "0937",
+        "name": "Monkey D. Luffy, Crew's Promise: 3D2Y",
+        "type": "QCK"
     },
     {
-        "value": 939,
-        "name": "Nami, Weatheria's Cat Burglar"
+        "value": "0939",
+        "name": "Nami, Weatheria's Cat Burglar",
+        "type": "PSY"
     },
     {
-        "value": 941,
-        "name": "Usopp, Swindling Forest's Resolute Warrior"
+        "value": "0941",
+        "name": "Usopp, Swindling Forest's Resolute Warrior",
+        "type": "DEX"
     },
     {
-        "value": 943,
-        "name": "Cyborg Franky, Sacred Beast of Baldimore"
+        "value": "0943",
+        "name": "Cyborg Franky, Sacred Beast of Baldimore",
+        "type": "STR"
     },
     {
-        "value": 954,
-        "name": "Gyaro"
+        "value": "0954",
+        "name": "Gyaro",
+        "type": "QCK"
     },
     {
-        "value": 955,
-        "name": "Macro"
+        "value": "0955",
+        "name": "Macro",
+        "type": "PSY"
     },
     {
-        "value": 956,
-        "name": "Tansui"
+        "value": "0956",
+        "name": "Tansui",
+        "type": "INT"
     },
     {
-        "value": 963,
-        "name": "Saint Charlos"
+        "value": "0963",
+        "name": "Saint Charlos",
+        "type": "STR"
     },
     {
-        "value": 964,
-        "name": "Saint Roswald"
+        "value": "0964",
+        "name": "Saint Roswald",
+        "type": "DEX"
     },
     {
-        "value": 965,
-        "name": "Saint Shalria"
+        "value": "0965",
+        "name": "Saint Shalria",
+        "type": "QCK"
     },
     {
-        "value": 966,
-        "name": "Eustass Kid, Supernova"
+        "value": "0966",
+        "name": "Eustass Kid, Supernova",
+        "type": "QCK"
     },
     {
-        "value": 967,
-        "name": "Trafalgar Law, Supernova"
+        "value": "0967",
+        "name": "Trafalgar Law, Supernova",
+        "type": "INT"
     },
     {
-        "value": 972,
-        "name": "Pacifista PX-5"
+        "value": "0972",
+        "name": "Pacifista PX-5",
+        "type": "INT"
     },
     {
-        "value": 974,
-        "name": "Sentomaru, Marine Science Unit Commander"
+        "value": "0974",
+        "name": "Sentomaru, Marine Science Unit Commander",
+        "type": "PSY"
     },
     {
-        "value": 991,
-        "name": "Machvise, Donquixote Pirates"
+        "value": "0991",
+        "name": "Machvise, Donquixote Pirates",
+        "type": "INT"
     },
     {
-        "value": 993,
-        "name": "Gladius, Donquixote Pirates"
+        "value": "0993",
+        "name": "Gladius, Donquixote Pirates",
+        "type": "QCK"
     },
     {
-        "value": 995,
-        "name": "Violet, Donquixote Pirates"
+        "value": "0995",
+        "name": "Violet, Donquixote Pirates",
+        "type": "PSY"
     },
     {
-        "value": 997,
-        "name": "Dellinger, Donquixote Pirates"
+        "value": "0997",
+        "name": "Dellinger, Donquixote Pirates",
+        "type": "DEX"
     },
     {
-        "value": 999,
-        "name": "Diamante, Donquixote Pirates"
+        "value": "0999",
+        "name": "Diamante, Donquixote Pirates",
+        "type": "STR"
     },
     {
-        "value": 1001,
-        "name": "Donquixote Rosinante"
+        "value": "1001",
+        "name": "Donquixote Rosinante",
+        "type": "DEX"
     },
     {
-        "value": 1006,
-        "name": "Jean Bart, Heart Pirates"
+        "value": "1006",
+        "name": "Jean Bart, Heart Pirates",
+        "type": "STR"
     },
     {
-        "value": 1014,
-        "name": "Tony Tony Chopper, Animal King"
+        "value": "1014",
+        "name": "Tony Tony Chopper, Animal King",
+        "type": "PSY"
     },
     {
-        "value": 1025,
-        "name": "Don Chinjao, Kano Kingdom Gang"
+        "value": "1025",
+        "name": "Don Chinjao, Kano Kingdom Gang",
+        "type": "INT"
     },
     {
-        "value": 1027,
-        "name": "Blue Gilly, Jiaokungdo Fighter"
+        "value": "1027",
+        "name": "Blue Gilly, Jiaokungdo Fighter",
+        "type": "QCK"
     },
     {
-        "value": 1029,
-        "name": "Funk Brothers, Mogaro Kingdom Assassins"
+        "value": "1029",
+        "name": "Funk Brothers, Mogaro Kingdom Assassins",
+        "type": "DEX"
     },
     {
-        "value": 1031,
-        "name": "Hajrudin, Pirate Mercenary"
+        "value": "1031",
+        "name": "Hajrudin, Pirate Mercenary",
+        "type": "PSY"
     },
     {
-        "value": 1033,
-        "name": "Abdullah and Jeet, Former Bounty Hunters"
+        "value": "1033",
+        "name": "Abdullah and Jeet, Former Bounty Hunters",
+        "type": "STR"
     },
     {
-        "value": 1035,
-        "name": "Man-Eating Bartolomeo"
+        "value": "1035",
+        "name": "Man-Eating Bartolomeo",
+        "type": "STR"
     },
     {
-        "value": 1045,
-        "name": "Trafalgar Law Warlord of the Sea"
+        "value": "1045",
+        "name": "Trafalgar Law Warlord of the Sea",
+        "type": "PSY"
     },
     {
-        "value": 1056,
-        "name": "Boa Sandersonia, Kuja Pirates"
+        "value": "1056",
+        "name": "Boa Sandersonia, Kuja Pirates",
+        "type": "DEX"
     },
     {
-        "value": 1058,
-        "name": "Boa Marigold, Kuja Pirates"
+        "value": "1058",
+        "name": "Boa Marigold, Kuja Pirates",
+        "type": "STR"
     },
     {
-        "value": 1060,
-        "name": "Marguerite, Kuja Warrior"
+        "value": "1060",
+        "name": "Marguerite, Kuja Warrior",
+        "type": "PSY"
     },
     {
-        "value": 1061,
-        "name": "Kikyo"
+        "value": "1061",
+        "name": "Kikyo",
+        "type": "QCK"
     },
     {
-        "value": 1062,
-        "name": "Gloriosa"
+        "value": "1062",
+        "name": "Gloriosa",
+        "type": "INT"
     },
     {
-        "value": 1070,
-        "name": "'Pirate Executioner' Shuraiya Bascud"
+        "value": "1070",
+        "name": "'Pirate Executioner' Shuraiya Bascud",
+        "type": "DEX"
     },
     {
-        "value": 1075,
-        "name": "Ricky, Mystery Swordsman"
+        "value": "1075",
+        "name": "Ricky, Mystery Swordsman",
+        "type": "INT"
     },
     {
-        "value": 1077,
-        "name": "Leo, Tontatta Corps Leader"
+        "value": "1077",
+        "name": "Leo, Tontatta Corps Leader",
+        "type": "QCK"
     },
     {
-        "value": 1079,
-        "name": "Mansherry, Princess of the Tontatta Tribe"
+        "value": "1079",
+        "name": "Mansherry, Princess of the Tontatta Tribe",
+        "type": "PSY"
     },
     {
-        "value": 1081,
-        "name": "Kyros, Former Captain of the Riku Royal Army"
+        "value": "1081",
+        "name": "Kyros, Former Captain of the Riku Royal Army",
+        "type": "DEX"
     },
     {
-        "value": 1083,
-        "name": "Don Sai, Kano Kingdom Gang"
+        "value": "1083",
+        "name": "Don Sai, Kano Kingdom Gang",
+        "type": "STR"
     },
     {
-        "value": 1085,
-        "name": "Issho"
+        "value": "1085",
+        "name": "Issho",
+        "type": "INT"
     },
     {
-        "value": 1098,
-        "name": "Billy"
+        "value": "1098",
+        "name": "Billy",
+        "type": "PSY"
     },
     {
-        "value": 1115,
-        "name": "Monkey D. Luffy, A Pirate Who Lives By His Code"
+        "value": "1115",
+        "name": "Monkey D. Luffy, A Pirate Who Lives By His Code",
+        "type": "STR"
     },
     {
-        "value": 1117,
-        "name": "Sanji, A Pirate Who Lives By His Code"
+        "value": "1117",
+        "name": "Sanji, A Pirate Who Lives By His Code",
+        "type": "INT"
     },
     {
-        "value": 1119,
-        "name": "Nami, A Pirate Who Lives By Her Code"
+        "value": "1119",
+        "name": "Nami, A Pirate Who Lives By Her Code",
+        "type": "QCK"
     },
     {
-        "value": 1121,
-        "name": "Monkey D. Luffy, A Vow in the Great Age of Pirates - Pirate King"
+        "value": "1121",
+        "name": "Monkey D. Luffy, A Vow in the Great Age of Pirates - Pirate King",
+        "type": "STR"
     },
     {
-        "value": 1123,
-        "name": "White Knight Cavendish"
+        "value": "1123",
+        "name": "White Knight Cavendish",
+        "type": "QCK"
     },
     {
-        "value": 1125,
-        "name": "Suleiman the Beheader"
+        "value": "1125",
+        "name": "Suleiman the Beheader",
+        "type": "PSY"
     },
     {
-        "value": 1127,
-        "name": "Orlumbus, Massacre Ruler"
+        "value": "1127",
+        "name": "Orlumbus, Massacre Ruler",
+        "type": "DEX"
     },
     {
-        "value": 1129,
-        "name": "Dagama, Prodence Kingdom Tactician"
+        "value": "1129",
+        "name": "Dagama, Prodence Kingdom Tactician",
+        "type": "INT"
     },
     {
-        "value": 1131,
-        "name": "Elizabello II, King of Prodence Kingdom"
+        "value": "1131",
+        "name": "Elizabello II, King of Prodence Kingdom",
+        "type": "STR"
     },
     {
-        "value": 1133,
-        "name": "Destruction Cannon Ideo"
+        "value": "1133",
+        "name": "Destruction Cannon Ideo",
+        "type": "QCK"
     },
     {
-        "value": 1151,
-        "name": "Minotaur"
+        "value": "1151",
+        "name": "Minotaur",
+        "type": "PSY"
     },
     {
-        "value": 1152,
-        "name": "Minozebra"
+        "value": "1152",
+        "name": "Minozebra",
+        "type": "INT"
     },
     {
-        "value": 1153,
-        "name": "Sphinx"
+        "value": "1153",
+        "name": "Sphinx",
+        "type": "STR"
     },
     {
-        "value": 1154,
-        "name": "Saldeath, Chief Guard"
+        "value": "1154",
+        "name": "Saldeath, Chief Guard",
+        "type": "DEX"
     },
     {
-        "value": 1155,
-        "name": "Army Wolf"
+        "value": "1155",
+        "name": "Army Wolf",
+        "type": "QCK"
     },
     {
-        "value": 1157,
-        "name": "Under Warden Hannyabal, Undersea Prison - Impel Down"
+        "value": "1157",
+        "name": "Under Warden Hannyabal, Undersea Prison - Impel Down",
+        "type": "PSY"
     },
     {
-        "value": 1159,
-        "name": "Chief Warden Magellan, Undersea Prison - Impel Down"
+        "value": "1159",
+        "name": "Chief Warden Magellan, Undersea Prison - Impel Down",
+        "type": "STR"
     },
     {
-        "value": 1173,
-        "name": "Brook, A Pirate Who Lives By His Code"
+        "value": "1173",
+        "name": "Brook, A Pirate Who Lives By His Code",
+        "type": "PSY"
     },
     {
-        "value": 1175,
-        "name": "Roronoa Zoro, A Pirate Who Lives By His Code"
+        "value": "1175",
+        "name": "Roronoa Zoro, A Pirate Who Lives By His Code",
+        "type": "DEX"
     },
     {
-        "value": 1177,
-        "name": "Chopper, A Pirate Who Lives By His Code"
+        "value": "1177",
+        "name": "Chopper, A Pirate Who Lives By His Code",
+        "type": "DEX"
     },
     {
-        "value": 1182,
-        "name": "Blenheim, The Cutlass"
+        "value": "1182",
+        "name": "Blenheim, The Cutlass",
+        "type": "DEX"
     },
     {
-        "value": 1184,
-        "name": "Kingdew, Twin Fist Gauntlets"
+        "value": "1184",
+        "name": "Kingdew, Twin Fist Gauntlets",
+        "type": "PSY"
     },
     {
-        "value": 1186,
-        "name": "Haruta, Gale Small Swordsman"
+        "value": "1186",
+        "name": "Haruta, Gale Small Swordsman",
+        "type": "INT"
     },
     {
-        "value": 1188,
-        "name": "Atmos, The Water Buffalo"
+        "value": "1188",
+        "name": "Atmos, The Water Buffalo",
+        "type": "STR"
     },
     {
-        "value": 1190,
-        "name": "Speed Jil, Shield and Lance"
+        "value": "1190",
+        "name": "Speed Jil, Shield and Lance",
+        "type": "QCK"
     },
     {
-        "value": 1192,
-        "name": "Kuzan"
+        "value": "1192",
+        "name": "Kuzan",
+        "type": "QCK"
     },
     {
-        "value": 1206,
-        "name": "Rumbar Pirates Laboon"
+        "value": "1206",
+        "name": "Rumbar Pirates Laboon",
+        "type": "STR"
     },
     {
-        "value": 1208,
-        "name": "Nico Robin, A Pirate Who Lives By Her Code"
+        "value": "1208",
+        "name": "Nico Robin, A Pirate Who Lives By Her Code",
+        "type": "INT"
     },
     {
-        "value": 1210,
-        "name": "Usopp, A Pirate Who Lives By His Code"
+        "value": "1210",
+        "name": "Usopp, A Pirate Who Lives By His Code",
+        "type": "QCK"
     },
     {
-        "value": 1212,
-        "name": "Franky, A Pirate Who Lives By His Code"
+        "value": "1212",
+        "name": "Franky, A Pirate Who Lives By His Code",
+        "type": "STR"
     },
     {
-        "value": 1218,
-        "name": "Boa Hancock, Amazon Lily Princess"
+        "value": "1218",
+        "name": "Boa Hancock, Amazon Lily Princess",
+        "type": "STR"
     },
     {
-        "value": 1223,
-        "name": "Bastille"
+        "value": "1223",
+        "name": "Bastille",
+        "type": "INT"
     },
     {
-        "value": 1224,
-        "name": "Yamakaji"
+        "value": "1224",
+        "name": "Yamakaji",
+        "type": "STR"
     },
     {
-        "value": 1226,
-        "name": "Smoker, Navy Headquarters Commodore"
+        "value": "1226",
+        "name": "Smoker, Navy Headquarters Commodore",
+        "type": "PSY"
     },
     {
-        "value": 1227,
-        "name": "Dracule Mihawk, Hawkeyes"
+        "value": "1227",
+        "name": "Dracule Mihawk, Hawkeyes",
+        "type": "QCK"
     },
     {
-        "value": 1228,
-        "name": "Kizaru, Navy Headquarters Admiral"
+        "value": "1228",
+        "name": "Kizaru, Navy Headquarters Admiral",
+        "type": "DEX"
     },
     {
-        "value": 1230,
-        "name": "Sentomaru of the Axe, Navy HQ Officer"
+        "value": "1230",
+        "name": "Sentomaru of the Axe, Navy HQ Officer",
+        "type": "INT"
     },
     {
-        "value": 1232,
-        "name": "Smoker, G-5 Navy HQ Vice Admiral"
+        "value": "1232",
+        "name": "Smoker, G-5 Navy HQ Vice Admiral",
+        "type": "DEX"
     },
     {
-        "value": 1234,
-        "name": "Tashigi, G-5 Navy HQ Captain "
+        "value": "1234",
+        "name": "Tashigi, G-5 Navy HQ Captain ",
+        "type": "QCK"
     },
     {
-        "value": 1236,
-        "name": "Maynard the Pursuer, Navy HQ Vice Admiral"
+        "value": "1236",
+        "name": "Maynard the Pursuer, Navy HQ Vice Admiral",
+        "type": "PSY"
     },
     {
-        "value": 1238,
-        "name": "'Shark Cutter' Bastille, Navy HQ Vice Admiral"
+        "value": "1238",
+        "name": "'Shark Cutter' Bastille, Navy HQ Vice Admiral",
+        "type": "STR"
     },
     {
-        "value": 1240,
-        "name": "Borsalino"
+        "value": "1240",
+        "name": "Borsalino",
+        "type": "PSY"
     },
     {
-        "value": 1268,
-        "name": "Blackbeard, Captain of the Blackbeard Pirates"
+        "value": "1268",
+        "name": "Blackbeard, Captain of the Blackbeard Pirates",
+        "type": "DEX"
     },
     {
-        "value": 1270,
-        "name": "'Demon Sheriff' Laffitte"
+        "value": "1270",
+        "name": "'Demon Sheriff' Laffitte",
+        "type": "DEX"
     },
     {
-        "value": 1272,
-        "name": "'The Supersonic' Van Augur"
+        "value": "1272",
+        "name": "'The Supersonic' Van Augur",
+        "type": "QCK"
     },
     {
-        "value": 1274,
-        "name": "'Champion' Jesus Burgess"
+        "value": "1274",
+        "name": "'Champion' Jesus Burgess",
+        "type": "STR"
     },
     {
-        "value": 1276,
-        "name": "Shiryu of the Rain"
+        "value": "1276",
+        "name": "Shiryu of the Rain",
+        "type": "INT"
     },
     {
-        "value": 1278,
-        "name": "'Grim Reaper' Doc Q"
+        "value": "1278",
+        "name": "'Grim Reaper' Doc Q",
+        "type": "PSY"
     },
     {
-        "value": 1279,
-        "name": "John Giant"
+        "value": "1279",
+        "name": "John Giant",
+        "type": "DEX"
     },
     {
-        "value": 1280,
-        "name": "Aokiji, Navy HQ Admiral"
+        "value": "1280",
+        "name": "Aokiji, Navy HQ Admiral",
+        "type": "PSY"
     },
     {
-        "value": 1281,
-        "name": "Garp, Navy HQ Vice Admiral"
+        "value": "1281",
+        "name": "Garp, Navy HQ Vice Admiral",
+        "type": "STR"
     },
     {
-        "value": 1282,
-        "name": "Sengoku Navy HQ Fleet Admiral"
+        "value": "1282",
+        "name": "Sengoku Navy HQ Fleet Admiral",
+        "type": "INT"
     },
     {
-        "value": 1283,
-        "name": "Akainu Navy HQ Admiral"
+        "value": "1283",
+        "name": "Akainu Navy HQ Admiral",
+        "type": "INT"
     },
     {
-        "value": 1314,
-        "name": "Sakazuki"
+        "value": "1314",
+        "name": "Sakazuki",
+        "type": "STR"
     },
     {
-        "value": 1316,
-        "name": "Coby, Student of the 'Hero of the Navy', Navy HQ Master Chief Petty Officer"
+        "value": "1316",
+        "name": "Coby, Student of the 'Hero of the Navy', Navy HQ Master Chief Petty Officer",
+        "type": "PSY"
     },
     {
-        "value": 1318,
-        "name": "'Garp the Fist', Navy HQ Vice Admiral"
+        "value": "1318",
+        "name": "'Garp the Fist', Navy HQ Vice Admiral",
+        "type": "STR"
     },
     {
-        "value": 1320,
-        "name": "'Grand Staff Officer' Tsuru, Navy HQ Vice Admiral"
+        "value": "1320",
+        "name": "'Grand Staff Officer' Tsuru, Navy HQ Vice Admiral",
+        "type": "QCK"
     },
     {
-        "value": 1322,
-        "name": "Momonga, Monster Slash of the Great Commander, Navy Vice Admiral"
+        "value": "1322",
+        "name": "Momonga, Monster Slash of the Great Commander, Navy Vice Admiral",
+        "type": "DEX"
     },
     {
-        "value": 1324,
-        "name": "Onigumo, Swordsman of the Eight-Sword Style, Navy Vice Admiral"
+        "value": "1324",
+        "name": "Onigumo, Swordsman of the Eight-Sword Style, Navy Vice Admiral",
+        "type": "INT"
     },
     {
-        "value": 1342,
-        "name": "Curly Dadan"
+        "value": "1342",
+        "name": "Curly Dadan",
+        "type": "PSY"
     },
     {
-        "value": 1343,
-        "name": "Porchemy"
+        "value": "1343",
+        "name": "Porchemy",
+        "type": "DEX"
     },
     {
-        "value": 1344,
-        "name": "Bluejam"
+        "value": "1344",
+        "name": "Bluejam",
+        "type": "STR"
     },
     {
-        "value": 1345,
-        "name": "Jinbe, Fishman Pirates Captain"
+        "value": "1345",
+        "name": "Jinbe, Fishman Pirates Captain",
+        "type": "STR"
     },
     {
-        "value": 1346,
-        "name": "Heracles'n, Highwayman of the Forest, Teacher of Amazing Weapons"
+        "value": "1346",
+        "name": "Heracles'n, Highwayman of the Forest, Teacher of Amazing Weapons",
+        "type": "DEX"
     },
     {
-        "value": 1347,
-        "name": "Birdie Kingdom Roc"
+        "value": "1347",
+        "name": "Birdie Kingdom Roc",
+        "type": "PSY"
     },
     {
-        "value": 1348,
-        "name": "Humandrills"
+        "value": "1348",
+        "name": "Humandrills",
+        "type": "STR"
     },
     {
-        "value": 1349,
-        "name": "Haredas"
+        "value": "1349",
+        "name": "Haredas",
+        "type": "PSY"
     },
     {
-        "value": 1350,
-        "name": "Long Arm Kingdom Tribesman"
+        "value": "1350",
+        "name": "Long Arm Kingdom Tribesman",
+        "type": "QCK"
     },
     {
-        "value": 1352,
-        "name": "Ivankov, New Kama King"
+        "value": "1352",
+        "name": "Ivankov, New Kama King",
+        "type": "DEX"
     },
     {
-        "value": 1353,
-        "name": "Rayleigh, Crew of the Pirate King"
+        "value": "1353",
+        "name": "Rayleigh, Crew of the Pirate King",
+        "type": "QCK"
     },
     {
-        "value": 1354,
-        "name": "Silvers Rayleigh, Master of Sleepless Street"
+        "value": "1354",
+        "name": "Silvers Rayleigh, Master of Sleepless Street",
+        "type": "DEX"
     },
     {
-        "value": 1362,
-        "name": "Roronoa Zoro, Reunion of the Straw Hat Pirates"
+        "value": "1362",
+        "name": "Roronoa Zoro, Reunion of the Straw Hat Pirates",
+        "type": "DEX"
     },
     {
-        "value": 1364,
-        "name": "Franky, Reunion of the Straw Hat Pirates"
+        "value": "1364",
+        "name": "Franky, Reunion of the Straw Hat Pirates",
+        "type": "PSY"
     },
     {
-        "value": 1366,
-        "name": "Nami, Reunion of the Straw Hat Pirates"
+        "value": "1366",
+        "name": "Nami, Reunion of the Straw Hat Pirates",
+        "type": "INT"
     },
     {
-        "value": 1368,
-        "name": "Sanji, Reunion of the Straw Hat Pirates"
+        "value": "1368",
+        "name": "Sanji, Reunion of the Straw Hat Pirates",
+        "type": "STR"
     },
     {
-        "value": 1370,
-        "name": "Tony Tony Chopper, Reunion of the Straw Hat Pirates"
+        "value": "1370",
+        "name": "Tony Tony Chopper, Reunion of the Straw Hat Pirates",
+        "type": "QCK"
     },
     {
-        "value": 1387,
-        "name": "Monkey D. Luffy, Gum Gum Elephant: Elephant Gun"
+        "value": "1387",
+        "name": "Monkey D. Luffy, Gum Gum Elephant: Elephant Gun",
+        "type": "STR"
     },
     {
-        "value": 1388,
-        "name": "Roronoa Zoro, Unfortunate Port Bird: Yakkoudori"
+        "value": "1388",
+        "name": "Roronoa Zoro, Unfortunate Port Bird: Yakkoudori",
+        "type": "DEX"
     },
     {
-        "value": 1389,
-        "name": "Nami, Weather Egg: Thunder Breed Tempo"
+        "value": "1389",
+        "name": "Nami, Weather Egg: Thunder Breed Tempo",
+        "type": "INT"
     },
     {
-        "value": 1391,
-        "name": "Captain Buggy"
+        "value": "1391",
+        "name": "Captain Buggy",
+        "type": "INT"
     },
     {
-        "value": 1392,
-        "name": "Sentomaru, Wall of the Sabaody Archipelagos"
+        "value": "1392",
+        "name": "Sentomaru, Wall of the Sabaody Archipelagos",
+        "type": "PSY"
     },
     {
-        "value": 1393,
-        "name": "Demalo Black"
+        "value": "1393",
+        "name": "Demalo Black",
+        "type": "INT"
     },
     {
-        "value": 1404,
-        "name": "Monkey D. Luffy, Reunion of the Straw Hat Pirates"
+        "value": "1404",
+        "name": "Monkey D. Luffy, Reunion of the Straw Hat Pirates",
+        "type": "QCK"
     },
     {
-        "value": 1406,
-        "name": "Usopp, Reunion of the Straw Hat Pirates"
+        "value": "1406",
+        "name": "Usopp, Reunion of the Straw Hat Pirates",
+        "type": "PSY"
     },
     {
-        "value": 1408,
-        "name": "Nico Robin, Reunion of the Straw Hat Pirates"
+        "value": "1408",
+        "name": "Nico Robin, Reunion of the Straw Hat Pirates",
+        "type": "DEX"
     },
     {
-        "value": 1410,
-        "name": "Brook, Reunion of the Straw Hat Pirates"
+        "value": "1410",
+        "name": "Brook, Reunion of the Straw Hat Pirates",
+        "type": "INT"
     },
     {
-        "value": 1412,
-        "name": "Tony Tony Chopper: Monster Point, Reunion of the Straw Hat Pirates"
+        "value": "1412",
+        "name": "Tony Tony Chopper: Monster Point, Reunion of the Straw Hat Pirates",
+        "type": "STR"
     },
     {
-        "value": 1413,
-        "name": "Whitebeard: Four Emperors"
+        "value": "1413",
+        "name": "Whitebeard: Four Emperors",
+        "type": "STR"
     },
     {
-        "value": 1418,
-        "name": "Stainless"
+        "value": "1418",
+        "name": "Stainless",
+        "type": "INT"
     },
     {
-        "value": 1434,
-        "name": "Hody Jones, the Ghost of Fishman District"
+        "value": "1434",
+        "name": "Hody Jones, the Ghost of Fishman District",
+        "type": "INT"
     },
     {
-        "value": 1436,
-        "name": "Hyouzou, Ghosts of Fishman District"
+        "value": "1436",
+        "name": "Hyouzou, Ghosts of Fishman District",
+        "type": "QCK"
     },
     {
-        "value": 1438,
-        "name": "Ikaros Much, Ghosts of Fishman District"
+        "value": "1438",
+        "name": "Ikaros Much, Ghosts of Fishman District",
+        "type": "PSY"
     },
     {
-        "value": 1440,
-        "name": "Daruma, Ghosts of Fishman District"
+        "value": "1440",
+        "name": "Daruma, Ghosts of Fishman District",
+        "type": "DEX"
     },
     {
-        "value": 1442,
-        "name": "Zeo, Ghosts of Fishman District"
+        "value": "1442",
+        "name": "Zeo, Ghosts of Fishman District",
+        "type": "INT"
     },
     {
-        "value": 1444,
-        "name": "Dosun, Ghosts of Fishman District"
+        "value": "1444",
+        "name": "Dosun, Ghosts of Fishman District",
+        "type": "STR"
     },
     {
-        "value": 1445,
-        "name": "Boa Hancock: Snake Princess"
+        "value": "1445",
+        "name": "Boa Hancock: Snake Princess",
+        "type": "QCK"
     },
     {
-        "value": 1446,
-        "name": "Usopp, Platanus: Shuriken"
+        "value": "1446",
+        "name": "Usopp, Platanus: Shuriken",
+        "type": "PSY"
     },
     {
-        "value": 1447,
-        "name": "Sanji, Grill Shot"
+        "value": "1447",
+        "name": "Sanji, Grill Shot",
+        "type": "QCK"
     },
     {
-        "value": 1448,
-        "name": "Tony Tony Chopper, Heavy Gong"
+        "value": "1448",
+        "name": "Tony Tony Chopper, Heavy Gong",
+        "type": "PSY"
     },
     {
-        "value": 1470,
-        "name": "Lip 'Service' Doughty"
+        "value": "1470",
+        "name": "Lip 'Service' Doughty",
+        "type": "STR"
     },
     {
-        "value": 1473,
-        "name": "Shirahoshi-hime, Ryugu Kingdom Princess"
+        "value": "1473",
+        "name": "Shirahoshi-hime, Ryugu Kingdom Princess",
+        "type": "PSY"
     },
     {
-        "value": 1475,
-        "name": "Neptune, Ryugu Kingdom King"
+        "value": "1475",
+        "name": "Neptune, Ryugu Kingdom King",
+        "type": "STR"
     },
     {
-        "value": 1477,
-        "name": "Fukaboshi, Ryugu Kingdom Prince"
+        "value": "1477",
+        "name": "Fukaboshi, Ryugu Kingdom Prince",
+        "type": "PSY"
     },
     {
-        "value": 1479,
-        "name": "Wet Haired Caribou, Caribou Pirates Captain"
+        "value": "1479",
+        "name": "Wet Haired Caribou, Caribou Pirates Captain",
+        "type": "QCK"
     },
     {
-        "value": 1481,
-        "name": "Vander Decken IX, Captain of the Flying Pirates"
+        "value": "1481",
+        "name": "Vander Decken IX, Captain of the Flying Pirates",
+        "type": "DEX"
     },
     {
-        "value": 1483,
-        "name": "Madame Shyarly, Fortune Teller"
+        "value": "1483",
+        "name": "Madame Shyarly, Fortune Teller",
+        "type": "INT"
     },
     {
-        "value": 1492,
-        "name": "Sabo, True Power of the Mera Mera no Mi"
+        "value": "1492",
+        "name": "Sabo, True Power of the Mera Mera no Mi",
+        "type": "PSY"
     },
     {
-        "value": 1501,
-        "name": "Caribou"
+        "value": "1501",
+        "name": "Caribou",
+        "type": "INT"
     },
     {
-        "value": 1502,
-        "name": "Coribou"
+        "value": "1502",
+        "name": "Coribou",
+        "type": "PSY"
     },
     {
-        "value": 1503,
-        "name": "Hammond"
+        "value": "1503",
+        "name": "Hammond",
+        "type": "QCK"
     },
     {
-        "value": 1504,
-        "name": "Vander Decken IX"
+        "value": "1504",
+        "name": "Vander Decken IX",
+        "type": "DEX"
     },
     {
-        "value": 1506,
-        "name": "Hody Jones, Awakened"
+        "value": "1506",
+        "name": "Hody Jones, Awakened",
+        "type": "STR"
     },
     {
-        "value": 1532,
-        "name": "God Usopp"
+        "value": "1532",
+        "name": "God Usopp",
+        "type": "DEX"
     },
     {
-        "value": 1536,
-        "name": "Duval, Straw Hat Pirates Accomplice"
+        "value": "1536",
+        "name": "Duval, Straw Hat Pirates Accomplice",
+        "type": "PSY"
     },
     {
-        "value": 1538,
-        "name": "Heracles'n, Straw Hat Pirates Accomplice"
+        "value": "1538",
+        "name": "Heracles'n, Straw Hat Pirates Accomplice",
+        "type": "STR"
     },
     {
-        "value": 1540,
-        "name": "Perona, Straw Hat Pirates Accomplice"
+        "value": "1540",
+        "name": "Perona, Straw Hat Pirates Accomplice",
+        "type": "INT"
     },
     {
-        "value": 1543,
-        "name": "Captain Usopp, Usopp's Great Manly Adventure ~Chapter II~"
+        "value": "1543",
+        "name": "Captain Usopp, Usopp's Great Manly Adventure ~Chapter II~",
+        "type": "DEX"
     },
     {
-        "value": 1549,
-        "name": "Nico Robin, Mil Fluer: Campo de Flores"
+        "value": "1549",
+        "name": "Nico Robin, Mil Fluer: Campo de Flores",
+        "type": "PSY"
     },
     {
-        "value": 1550,
-        "name": "Franky, Rocket Launcher"
+        "value": "1550",
+        "name": "Franky, Rocket Launcher",
+        "type": "INT"
     },
     {
-        "value": 1551,
-        "name": "Brook, Song of Scratches: Blizzard Slash"
+        "value": "1551",
+        "name": "Brook, Song of Scratches: Blizzard Slash",
+        "type": "DEX"
     },
     {
-        "value": 1558,
-        "name": "Ikaros"
+        "value": "1558",
+        "name": "Ikaros",
+        "type": "DEX"
     },
     {
-        "value": 1571,
-        "name": "'King of the Day' Inuarashi"
+        "value": "1571",
+        "name": "'King of the Day' Inuarashi",
+        "type": "STR"
     },
     {
-        "value": 1573,
-        "name": "Ruler's Aide Wanda"
+        "value": "1573",
+        "name": "Ruler's Aide Wanda",
+        "type": "QCK"
     },
     {
-        "value": 1575,
-        "name": "Full Power Sicilian"
+        "value": "1575",
+        "name": "Full Power Sicilian",
+        "type": "INT"
     },
     {
-        "value": 1577,
-        "name": "Foxfire Kinemon, Wano Country Samurai"
+        "value": "1577",
+        "name": "Foxfire Kinemon, Wano Country Samurai",
+        "type": "DEX"
     },
     {
-        "value": 1579,
-        "name": "Momonosuke, Child of Wano Country"
+        "value": "1579",
+        "name": "Momonosuke, Child of Wano Country",
+        "type": "PSY"
     },
     {
-        "value": 1588,
-        "name": "Sanji, Germa Kingdom Prince"
+        "value": "1588",
+        "name": "Sanji, Germa Kingdom Prince",
+        "type": "INT"
     },
     {
-        "value": 1593,
-        "name": "Monkey D. Luffy, Gear 4th - Boundman"
+        "value": "1593",
+        "name": "Monkey D. Luffy, Gear 4th - Boundman",
+        "type": "PSY"
     },
     {
-        "value": 1610,
-        "name": "Kami Enel, Clash of the Great Pirate Era [Fairy Vearth]"
+        "value": "1610",
+        "name": "Kami Enel, Clash of the Great Pirate Era [Fairy Vearth]",
+        "type": "QCK"
     },
     {
-        "value": 1612,
-        "name": "Bartholomew Kuma, Clash of the Great Pirate Era [Crew Obliterator]"
+        "value": "1612",
+        "name": "Bartholomew Kuma, Clash of the Great Pirate Era [Crew Obliterator]",
+        "type": "PSY"
     },
     {
-        "value": 1614,
-        "name": "Rob Lucci, Clash of the Great Pirate Era [Dark Justice]"
+        "value": "1614",
+        "name": "Rob Lucci, Clash of the Great Pirate Era [Dark Justice]",
+        "type": "DEX"
     },
     {
-        "value": 1616,
-        "name": "Mr. 0, Clash of the Great Pirate Era [Utopia]"
+        "value": "1616",
+        "name": "Mr. 0, Clash of the Great Pirate Era [Utopia]",
+        "type": "INT"
     },
     {
-        "value": 1618,
-        "name": "Gecko Moria, Clash of the Great Pirate Era [The Strongest Crew]"
+        "value": "1618",
+        "name": "Gecko Moria, Clash of the Great Pirate Era [The Strongest Crew]",
+        "type": "STR"
     },
     {
-        "value": 1619,
-        "name": "'Dark King' Silvers Rayleigh, Right Hand of the Pirate King"
+        "value": "1619",
+        "name": "'Dark King' Silvers Rayleigh, Right Hand of the Pirate King",
+        "type": "INT"
     },
     {
-        "value": 1620,
-        "name": "Eustass Kid, Wakes of an Endless Dream, Kid Pirates"
+        "value": "1620",
+        "name": "Eustass Kid, Wakes of an Endless Dream, Kid Pirates",
+        "type": "STR"
     },
     {
-        "value": 1652,
-        "name": "'King of the Night' Nekomamushi"
+        "value": "1652",
+        "name": "'King of the Night' Nekomamushi",
+        "type": "PSY"
     },
     {
-        "value": 1654,
-        "name": "Pedro of the Treetops"
+        "value": "1654",
+        "name": "Pedro of the Treetops",
+        "type": "INT"
     },
     {
-        "value": 1656,
-        "name": "Ruler's Aide Carrot"
+        "value": "1656",
+        "name": "Ruler's Aide Carrot",
+        "type": "QCK"
     },
     {
-        "value": 1658,
-        "name": "Evening Shower Kanjuro, Wano Country Samurai"
+        "value": "1658",
+        "name": "Evening Shower Kanjuro, Wano Country Samurai",
+        "type": "DEX"
     },
     {
-        "value": 1660,
-        "name": "Raizo of the Mist"
+        "value": "1660",
+        "name": "Raizo of the Mist",
+        "type": "STR"
     },
     {
-        "value": 1663,
-        "name": "Rob Lucci \"Life Return,\" CP9's Strongest"
+        "value": "1663",
+        "name": "Rob Lucci \"Life Return,\" CP9's Strongest",
+        "type": "STR"
     },
     {
-        "value": 1700,
-        "name": "Jinbe, Hell's Warlord of the Sea"
+        "value": "1700",
+        "name": "Jinbe, Hell's Warlord of the Sea",
+        "type": "PSY"
     },
     {
-        "value": 1702,
-        "name": "Emporio Ivankov, Hell's Revolutionary Army Officer"
+        "value": "1702",
+        "name": "Emporio Ivankov, Hell's Revolutionary Army Officer",
+        "type": "QCK"
     },
     {
-        "value": 1704,
-        "name": "Hannyabal, Now the Ruler's Trusted Retainer"
+        "value": "1704",
+        "name": "Hannyabal, Now the Ruler's Trusted Retainer",
+        "type": "INT"
     },
     {
-        "value": 1707,
-        "name": "Red Hair Shanks, Four Emperors"
+        "value": "1707",
+        "name": "Red Hair Shanks, Four Emperors",
+        "type": "PSY"
     },
     {
-        "value": 1764,
-        "name": "Kuzan, Former Navy HQ Greatest Military Power"
+        "value": "1764",
+        "name": "Kuzan, Former Navy HQ Greatest Military Power",
+        "type": "QCK"
     }
 ]
