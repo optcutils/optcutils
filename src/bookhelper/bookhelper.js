@@ -43,10 +43,6 @@ let select = characterNames.selectize({
     searchField: 'name',
     sortField: 'value',
     render: {
-
-        option: function(item, escape){
-            return '<div><span style="display: inline-block;background-size: 30px 30px;width: 30px; height: 30px; background-image: url(\'https://onepiece-treasurecruise.com/wp-content/uploads/f' + escape(pad(item.value, 4)) + '.png\');" />&nbsp;' + escape(item.name) + '</div>';
-
         option: function (item, escape) {
             let color = 'red';
             switch (item.type) {
