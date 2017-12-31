@@ -26,7 +26,9 @@ body {
 }
 
 .fortnights td {
-  width: 60%;
+  padding-right: 10px;
+  width: 50%;
+  min-width: 50%;
 }
 
 .characterImage {
@@ -37,7 +39,7 @@ body {
 .fortnightTitle {
   font-weight: bold;
   text-align: left;
-  padding-left: 200px;
+  padding-left: 250px;
   padding-bottom: 10px;
 }
 
@@ -77,9 +79,6 @@ a.boxclose{
     
 }
 
-a.boxclose:hover{
-  text-decoration: none;
-}
 
 .boxclose:before {
   content: "×";
