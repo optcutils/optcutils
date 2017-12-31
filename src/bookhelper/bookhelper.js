@@ -1,5 +1,6 @@
-const fortnights = require('../../bookhelper/assets/json/fortnights.json').Fortnight;
-const charObject = require('../../bookhelper/assets/json/characters.json');
+const fortnights = require('../../bookhelper/assets/json/fortnightsNEW.json');
+const characters = require('../../bookhelper/assets/json/charactersNEW.json');
+console.log(characters);
 const $ = require('jquery');
 const selectize = require('selectize');
 const popupS = require('popups');
@@ -25,14 +26,14 @@ let select = characterNames.selectize({
     allowEmptyOption: true,
     hideSelected: true,
     onFocus: clearSelect,
-    options: charObject,
+    options: characters,
     valueField: 'value',
     labelField: 'name',
     searchField: 'name',
     sortField: 'value',
     render: {
-        option: function (item, escape) {
-            return '<div><span style="display: inline-block;background-size: 30px 30px;width: 30px; height: 30px; background-image: url(\'https://onepiece-treasurecruise.com/wp-content/uploads/f' + escape(pad(item.value, 4)) + '.png\');" />&nbsp;' + escape(item.name) + '</div>'
+        option: function(item, escape){
+            return '<div><span style="display: inline-block;background-size: 30px 30px;width: 30px; height: 30px; background-image: url(\'https://onepiece-treasurecruise.com/wp-content/uploads/f' + escape(pad(item.value, 4)) + '.png\');" />&nbsp;' + escape(item.name) + '</div>';
         }
     }
 });

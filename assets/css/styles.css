@@ -27,7 +27,8 @@ body {
 
 .fortnights td {
   padding-right: 10px;
-  width: 60%;
+  width: 50%;
+  min-width: 50%;
 }
 
 .characterImage {
@@ -38,7 +39,7 @@ body {
 .fortnightTitle {
   font-weight: bold;
   text-align: left;
-  padding-left: 200px;
+  padding-left: 250px;
   padding-bottom: 10px;
 }
 
@@ -79,9 +80,6 @@ a.boxclose{
     
 }
 
-a.boxclose:hover{
-  text-decoration: none;
-}
 
 .boxclose:before {
   content: "×";
@@ -92,17 +90,4 @@ a.boxclose:hover{
   display: block;
   height: auto;
   width: 500px;
-}
-
-.exportButtons{
-  display: block;
-  margin: auto;
-  text-align: center;
-  margin-top: 20px;
-}
-
-#dataArea{
-  resize: none;
-  width: 100%;
-  height: 100%;
 }
