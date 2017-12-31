@@ -1,3 +1,4 @@
+
 [
     {
         "value": 3,
@@ -1786,5 +1787,2242 @@
     {
         "value": 1764,
         "name": "Kuzan, Former Navy HQ Greatest Military Power"
+    }
+=======
+[
+    {
+        "value": "0003",
+        "name": "Monkey D. Luffy Gum-Gum Bazooka",
+        "type": "STR"
+    },
+    {
+        "value": "0004",
+        "name": "Monkey D. Luffy Gear 2",
+        "type": "STR"
+    },
+    {
+        "value": "0007",
+        "name": "Roronoa Zoro Pound Phoenix",
+        "type": "DEX"
+    },
+    {
+        "value": "0008",
+        "name": "Roronoa Zoro Ashura Ichibugin",
+        "type": "DEX"
+    },
+    {
+        "value": "0009",
+        "name": "Nami",
+        "type": "INT"
+    },
+    {
+        "value": "0011",
+        "name": "Nami Mirage Tempo",
+        "type": "INT"
+    },
+    {
+        "value": "0012",
+        "name": "Nami Thunderbolt Tempo",
+        "type": "INT"
+    },
+    {
+        "value": "0015",
+        "name": "Usopp Golden Pound",
+        "type": "PSY"
+    },
+    {
+        "value": "0016",
+        "name": "Sogeking",
+        "type": "PSY"
+    },
+    {
+        "value": "0018",
+        "name": "Sanji Plastic Surgery Shot",
+        "type": "QCK"
+    },
+    {
+        "value": "0019",
+        "name": "Chef Sanji Hot Rock Stew",
+        "type": "QCK"
+    },
+    {
+        "value": "0020",
+        "name": "Sanji Diable Jambe Flambe",
+        "type": "QCK"
+    },
+    {
+        "value": "0021",
+        "name": "Tony Tony Chopper",
+        "type": "PSY"
+    },
+    {
+        "value": "0022",
+        "name": "Tony Tony Chopper Heavy Point",
+        "type": "PSY"
+    },
+    {
+        "value": "0023",
+        "name": "Tony Tony Chopper Brain Point",
+        "type": "INT"
+    },
+    {
+        "value": "0024",
+        "name": "Tony Tony Chopper Arm Point",
+        "type": "STR"
+    },
+    {
+        "value": "0025",
+        "name": "Tony Tony Chopper Horn Point",
+        "type": "QCK"
+    },
+    {
+        "value": "0026",
+        "name": "Tony Tony Chopper Guard Point",
+        "type": "DEX"
+    },
+    {
+        "value": "0030",
+        "name": "Iron-Mace Alvida Smooth-Smooth Fruit",
+        "type": "STR"
+    },
+    {
+        "value": "0032",
+        "name": "Cabin Boy Coby",
+        "type": "PSY"
+    },
+    {
+        "value": "0034",
+        "name": "Cabin Boy Helmeppo",
+        "type": "INT"
+    },
+    {
+        "value": "0036",
+        "name": "Mohji & Richie",
+        "type": "PSY"
+    },
+    {
+        "value": "0044",
+        "name": "Dancing Django",
+        "type": "DEX"
+    },
+    {
+        "value": "0047",
+        "name": "Yosaku",
+        "type": "STR"
+    },
+    {
+        "value": "0050",
+        "name": "Patty",
+        "type": "STR"
+    },
+    {
+        "value": "0052",
+        "name": "Chef Zeff",
+        "type": "DEX"
+    },
+    {
+        "value": "0054",
+        "name": "Gin the Man-Demon",
+        "type": "QCK"
+    },
+    {
+        "value": "0056",
+        "name": "Fire Pearl",
+        "type": "STR"
+    },
+    {
+        "value": "0058",
+        "name": "Don Krieg Poison Gas Bomb MH5",
+        "type": "INT"
+    },
+    {
+        "value": "0059",
+        "name": "Nezumi",
+        "type": "INT"
+    },
+    {
+        "value": "0060",
+        "name": "Momoo",
+        "type": "STR"
+    },
+    {
+        "value": "0062",
+        "name": "Kuroobi",
+        "type": "STR"
+    },
+    {
+        "value": "0064",
+        "name": "Six-Sword Hachi",
+        "type": "DEX"
+    },
+    {
+        "value": "0066",
+        "name": "Enraged Arlong Shark On Tooth",
+        "type": "STR"
+    },
+    {
+        "value": "0068",
+        "name": "Tashigi Navy HQ Ensign",
+        "type": "QCK"
+    },
+    {
+        "value": "0071",
+        "name": "Miss Wednesday",
+        "type": "PSY"
+    },
+    {
+        "value": "0073",
+        "name": "Princess Vivi",
+        "type": "PSY"
+    },
+    {
+        "value": "0074",
+        "name": "Portgas D. Ace",
+        "type": "QCK"
+    },
+    {
+        "value": "0075",
+        "name": "Portgas D. Ace Flame Mirror",
+        "type": "QCK"
+    },
+    {
+        "value": "0077",
+        "name": "Red-Haired Shanks",
+        "type": "PSY"
+    },
+    {
+        "value": "0199",
+        "name": "Mr. 5 Nez-Palm Cannon",
+        "type": "STR"
+    },
+    {
+        "value": "0200",
+        "name": "Mr. 5 Breeze Breath Bomb",
+        "type": "STR"
+    },
+    {
+        "value": "0202",
+        "name": "Miss Valentine 10,000 Kilo Guillotine",
+        "type": "QCK"
+    },
+    {
+        "value": "0203",
+        "name": "Mr. 3",
+        "type": "INT"
+    },
+    {
+        "value": "0204",
+        "name": "Mr. 3 Extra Special Candelabra",
+        "type": "INT"
+    },
+    {
+        "value": "0206",
+        "name": "Miss Goldenweek Colors Trap: Calming Green",
+        "type": "DEX"
+    },
+    {
+        "value": "0208",
+        "name": "Mr. 2 Bon Clay Bombardier Arabesque",
+        "type": "PSY"
+    },
+    {
+        "value": "0209",
+        "name": "Miss All Sunday Baroque Works VP",
+        "type": "INT"
+    },
+    {
+        "value": "0210",
+        "name": "Nico Robin",
+        "type": "INT"
+    },
+    {
+        "value": "0212",
+        "name": "Mr. 9 Hot Blooded Bat",
+        "type": "QCK"
+    },
+    {
+        "value": "0214",
+        "name": "Laboon (Luffy's drawing)",
+        "type": "STR"
+    },
+    {
+        "value": "0215",
+        "name": "Neptunian Squid",
+        "type": "DEX"
+    },
+    {
+        "value": "0216",
+        "name": "Monkey D. Luffy, Gum-Gum Balloon",
+        "type": "STR"
+    },
+    {
+        "value": "0217",
+        "name": "Monkey D. Luffy, Gear Third",
+        "type": "STR"
+    },
+    {
+        "value": "0218",
+        "name": "Roronoa Zoro, Streaming Wolf Swords",
+        "type": "DEX"
+    },
+    {
+        "value": "0219",
+        "name": "Roronoa Zoro, Lion's Song",
+        "type": "DEX"
+    },
+    {
+        "value": "0221",
+        "name": "Nami, Happiness Punch",
+        "type": "INT"
+    },
+    {
+        "value": "0222",
+        "name": "Usopp, Usopp Hammer",
+        "type": "PSY"
+    },
+    {
+        "value": "0223",
+        "name": "Usopp, Impact",
+        "type": "PSY"
+    },
+    {
+        "value": "0225",
+        "name": "Mr. Prince, Veau Shot",
+        "type": "QCK"
+    },
+    {
+        "value": "0228",
+        "name": "Escapee Morgan",
+        "type": "STR"
+    },
+    {
+        "value": "0229",
+        "name": "Double Crosser Django",
+        "type": "PSY"
+    },
+    {
+        "value": "0230",
+        "name": "Double Ironfist Fullbody",
+        "type": "STR"
+    },
+    {
+        "value": "0234",
+        "name": "Mr. 8 Igarappapa",
+        "type": "PSY"
+    },
+    {
+        "value": "0236",
+        "name": "Miss Monday Superhuman Brass Knuckles",
+        "type": "STR"
+    },
+    {
+        "value": "0251",
+        "name": "Marco the Phoenix",
+        "type": "PSY"
+    },
+    {
+        "value": "0253",
+        "name": "Diamond Jozu",
+        "type": "QCK"
+    },
+    {
+        "value": "0255",
+        "name": "Flower Sword Vista",
+        "type": "INT"
+    },
+    {
+        "value": "0257",
+        "name": "Flintlock Pistols Izo",
+        "type": "DEX"
+    },
+    {
+        "value": "0259",
+        "name": "Blamenco the Mallet",
+        "type": "STR"
+    },
+    {
+        "value": "0261",
+        "name": "Whitebeard",
+        "type": "STR"
+    },
+    {
+        "value": "0263",
+        "name": "Petty Officer Coby",
+        "type": "PSY"
+    },
+    {
+        "value": "0265",
+        "name": "Sergeant Helmeppo",
+        "type": "INT"
+    },
+    {
+        "value": "0290",
+        "name": "Mr. 13 & Ms. Friday The Unluckies",
+        "type": "INT"
+    },
+    {
+        "value": "0291",
+        "name": "Dorry",
+        "type": "PSY"
+    },
+    {
+        "value": "0292",
+        "name": "Broggy",
+        "type": "INT"
+    },
+    {
+        "value": "0308",
+        "name": "Trafalgar Law, ROOM",
+        "type": "DEX"
+    },
+    {
+        "value": "0310",
+        "name": "Basil Hawkins the Magician",
+        "type": "INT"
+    },
+    {
+        "value": "0312",
+        "name": "Massacre Soldier Killer",
+        "type": "QCK"
+    },
+    {
+        "value": "0314",
+        "name": "Mad Monk Urouge",
+        "type": "PSY"
+    },
+    {
+        "value": "0316",
+        "name": "Bepo the Martial Artist",
+        "type": "STR"
+    },
+    {
+        "value": "0327",
+        "name": "Wapol House",
+        "type": "STR"
+    },
+    {
+        "value": "0329",
+        "name": "Dalton Bison",
+        "type": "QCK"
+    },
+    {
+        "value": "0332",
+        "name": "Chessmarimo",
+        "type": "DEX"
+    },
+    {
+        "value": "0333",
+        "name": "Dr. Kureha",
+        "type": "PSY"
+    },
+    {
+        "value": "0335",
+        "name": "Lapin Adult",
+        "type": "INT"
+    },
+    {
+        "value": "0338",
+        "name": "Kiwi",
+        "type": "PSY"
+    },
+    {
+        "value": "0339",
+        "name": "Mozu",
+        "type": "PSY"
+    },
+    {
+        "value": "0357",
+        "name": "Captain Kid",
+        "type": "STR"
+    },
+    {
+        "value": "0359",
+        "name": "Roar of the Sea Scratchmen Apoo",
+        "type": "DEX"
+    },
+    {
+        "value": "0361",
+        "name": "Red Flag X Drake",
+        "type": "INT"
+    },
+    {
+        "value": "0363",
+        "name": "Big Eater Jewelry Bonney",
+        "type": "PSY"
+    },
+    {
+        "value": "0365",
+        "name": "Capone Gang Bege",
+        "type": "QCK"
+    },
+    {
+        "value": "0367",
+        "name": "Dark King Rayleigh",
+        "type": "INT"
+    },
+    {
+        "value": "0368",
+        "name": "Giant Slasher Red Pirates",
+        "type": "STR"
+    },
+    {
+        "value": "0370",
+        "name": "Giant Warrior Green Pirates",
+        "type": "DEX"
+    },
+    {
+        "value": "0371",
+        "name": "Giant Fighter Yellow Pirates",
+        "type": "PSY"
+    },
+    {
+        "value": "0372",
+        "name": "Giant Striker Black Pirates",
+        "type": "INT"
+    },
+    {
+        "value": "0374",
+        "name": "Giant Imperial Shooter Blue Pirates",
+        "type": "QCK"
+    },
+    {
+        "value": "0378",
+        "name": "Sea Cat",
+        "type": "PSY"
+    },
+    {
+        "value": "0380",
+        "name": "Kung Fu Dugong Faithful Apprentice",
+        "type": "STR"
+    },
+    {
+        "value": "0384",
+        "name": "Sir Crocodile",
+        "type": "INT"
+    },
+    {
+        "value": "0388",
+        "name": "Victoria Cindry",
+        "type": "PSY"
+    },
+    {
+        "value": "0393",
+        "name": "Kumacy",
+        "type": "STR"
+    },
+    {
+        "value": "0394",
+        "name": "Dog Penguin",
+        "type": "QCK"
+    },
+    {
+        "value": "0396",
+        "name": "Miss Merry Christmas Human Mole",
+        "type": "QCK"
+    },
+    {
+        "value": "0398",
+        "name": "Mr. 4 and Lassoo the Dog-Gun",
+        "type": "STR"
+    },
+    {
+        "value": "0400",
+        "name": "Miss Doublefinger Human Spike",
+        "type": "DEX"
+    },
+    {
+        "value": "0402",
+        "name": "Mr. 1 Human Sword",
+        "type": "STR"
+    },
+    {
+        "value": "0406",
+        "name": "General Zombie",
+        "type": "INT"
+    },
+    {
+        "value": "0407",
+        "name": "Jigoro of the Wind",
+        "type": "DEX"
+    },
+    {
+        "value": "0408",
+        "name": "Sir Crocodile Warlord of the Sea",
+        "type": "INT"
+    },
+    {
+        "value": "0410",
+        "name": "Jinbe, Warlord of the Sea",
+        "type": "QCK"
+    },
+    {
+        "value": "0412",
+        "name": "Bartholomew Kuma Warlord of the Sea",
+        "type": "STR"
+    },
+    {
+        "value": "0414",
+        "name": "Gecko Moria Warlord of the Sea",
+        "type": "INT"
+    },
+    {
+        "value": "0416",
+        "name": "Boa Hancock Warlord of the Sea",
+        "type": "QCK"
+    },
+    {
+        "value": "0422",
+        "name": "Nami Mirage Tempo: The Heavens",
+        "type": "INT"
+    },
+    {
+        "value": "0425",
+        "name": "Ryuma",
+        "type": "PSY"
+    },
+    {
+        "value": "0426",
+        "name": "Masira",
+        "type": "STR"
+    },
+    {
+        "value": "0428",
+        "name": "Montblanc Cricket",
+        "type": "PSY"
+    },
+    {
+        "value": "0429",
+        "name": "South Bird and Forest Residents",
+        "type": "DEX"
+    },
+    {
+        "value": "0431",
+        "name": "Bellamy the Hyena",
+        "type": "DEX"
+    },
+    {
+        "value": "0432",
+        "name": "Sarquiss",
+        "type": "QCK"
+    },
+    {
+        "value": "0449",
+        "name": "Twin-Blade Thatch",
+        "type": "QCK"
+    },
+    {
+        "value": "0451",
+        "name": "One-Hit Namule",
+        "type": "DEX"
+    },
+    {
+        "value": "0453",
+        "name": "Morning Star Rakuyo",
+        "type": "PSY"
+    },
+    {
+        "value": "0455",
+        "name": "Fossa the Blazing Katana",
+        "type": "STR"
+    },
+    {
+        "value": "0457",
+        "name": "Heavy Artillery Curiel",
+        "type": "INT"
+    },
+    {
+        "value": "0459",
+        "name": "Sengoku the Buddha",
+        "type": "PSY"
+    },
+    {
+        "value": "0463",
+        "name": "Satori",
+        "type": "PSY"
+    },
+    {
+        "value": "0464",
+        "name": "Shura",
+        "type": "INT"
+    },
+    {
+        "value": "0465",
+        "name": "Gedatsu",
+        "type": "QCK"
+    },
+    {
+        "value": "0466",
+        "name": "Braham",
+        "type": "DEX"
+    },
+    {
+        "value": "0467",
+        "name": "Yama",
+        "type": "STR"
+    },
+    {
+        "value": "0500",
+        "name": "Bellmere, Nami and Nojiko's Mother",
+        "type": "DEX"
+    },
+    {
+        "value": "0502",
+        "name": "Kaya, A rich young girl from Syrup Village",
+        "type": "PSY"
+    },
+    {
+        "value": "0504",
+        "name": "Hotori and Kotori, Skypiea Vice Head Enforcers",
+        "type": "INT"
+    },
+    {
+        "value": "0506",
+        "name": "Pell, The guardian falcon of Alabasta",
+        "type": "QCK"
+    },
+    {
+        "value": "0508",
+        "name": "Chaka, The guardian jackal of Alabasta",
+        "type": "STR"
+    },
+    {
+        "value": "0520",
+        "name": "Monkey D. Luffy, Straw Hat Pirates' Attack",
+        "type": "STR"
+    },
+    {
+        "value": "0522",
+        "name": "Sanji, Straw Hat Pirates' Attack",
+        "type": "INT"
+    },
+    {
+        "value": "0524",
+        "name": "Nami and Billy the Thunder Bird",
+        "type": "QCK"
+    },
+    {
+        "value": "0526",
+        "name": "Brook, Straw Hat Pirates' Attack",
+        "type": "PSY"
+    },
+    {
+        "value": "0528",
+        "name": "Chopper, Straw Hat Pirates' Attack",
+        "type": "DEX"
+    },
+    {
+        "value": "0530",
+        "name": "Shanks, Black Clad Emperor",
+        "type": "PSY"
+    },
+    {
+        "value": "0539",
+        "name": "Minorhinoceros",
+        "type": "STR"
+    },
+    {
+        "value": "0541",
+        "name": "Ohm",
+        "type": "STR"
+    },
+    {
+        "value": "0542",
+        "name": "Nola, Giant Snake",
+        "type": "PSY"
+    },
+    {
+        "value": "0544",
+        "name": "Wyper, Descendant of Great Warrior Calgara",
+        "type": "DEX"
+    },
+    {
+        "value": "0546",
+        "name": "Kami Eneru",
+        "type": "PSY"
+    },
+    {
+        "value": "0551",
+        "name": "Minokoala",
+        "type": "STR"
+    },
+    {
+        "value": "0552",
+        "name": "Manticore",
+        "type": "QCK"
+    },
+    {
+        "value": "0554",
+        "name": "Roronoa Zoro, Straw Hat Pirates' Attack",
+        "type": "DEX"
+    },
+    {
+        "value": "0556",
+        "name": "Usopp, Straw Hat Pirates' Attack",
+        "type": "QCK"
+    },
+    {
+        "value": "0558",
+        "name": "Nico Robin, Straw Hat Pirates' Attack",
+        "type": "INT"
+    },
+    {
+        "value": "0560",
+        "name": "Franky, Straw Hat Pirates' Attack",
+        "type": "STR"
+    },
+    {
+        "value": "0562",
+        "name": "Portgas D. Ace, Black Clad Division Commander",
+        "type": "DEX"
+    },
+    {
+        "value": "0563",
+        "name": "Porche",
+        "type": "PSY"
+    },
+    {
+        "value": "0564",
+        "name": "Capote",
+        "type": "QCK"
+    },
+    {
+        "value": "0565",
+        "name": "Hamburg",
+        "type": "DEX"
+    },
+    {
+        "value": "0566",
+        "name": "Pickles",
+        "type": "QCK"
+    },
+    {
+        "value": "0567",
+        "name": "Big Bun",
+        "type": "STR"
+    },
+    {
+        "value": "0569",
+        "name": "The Silver Fox Foxy",
+        "type": "INT"
+    },
+    {
+        "value": "0578",
+        "name": "Monkey D. Luffy, Voyage Dream: Pirate King",
+        "type": "STR"
+    },
+    {
+        "value": "0584",
+        "name": "Aisa",
+        "type": "PSY"
+    },
+    {
+        "value": "0586",
+        "name": "Nojiko, Nami's Sister",
+        "type": "PSY"
+    },
+    {
+        "value": "0587",
+        "name": "Crocus",
+        "type": "INT"
+    },
+    {
+        "value": "0588",
+        "name": "Crocus, Twin Cape Lighthouse Keeper",
+        "type": "INT"
+    },
+    {
+        "value": "0590",
+        "name": "Koza, Rebel Leader",
+        "type": "QCK"
+    },
+    {
+        "value": "0610",
+        "name": "Hiking Bear",
+        "type": "INT"
+    },
+    {
+        "value": "0611",
+        "name": "Purinpurin",
+        "type": "PSY"
+    },
+    {
+        "value": "0614",
+        "name": "Zambai",
+        "type": "PSY"
+    },
+    {
+        "value": "0615",
+        "name": "Demolisher Axeman",
+        "type": "STR"
+    },
+    {
+        "value": "0616",
+        "name": "Demolisher Spearman",
+        "type": "STR"
+    },
+    {
+        "value": "0617",
+        "name": "Demolisher Gunner",
+        "type": "STR"
+    },
+    {
+        "value": "0628",
+        "name": "Tilestone",
+        "type": "STR"
+    },
+    {
+        "value": "0629",
+        "name": "Franky, Franky Family",
+        "type": "INT"
+    },
+    {
+        "value": "0631",
+        "name": "Kaku: Six Powers, Cipher Pol No. 9",
+        "type": "QCK"
+    },
+    {
+        "value": "0633",
+        "name": "Rob Lucci: Six Powers, Cipher Pol No. 9",
+        "type": "STR"
+    },
+    {
+        "value": "0636",
+        "name": "Pappagu",
+        "type": "INT"
+    },
+    {
+        "value": "0639",
+        "name": "Bohemian Knight Doma",
+        "type": "QCK"
+    },
+    {
+        "value": "0641",
+        "name": "DeCalvan Brothers, Brothers' Bond",
+        "type": "DEX"
+    },
+    {
+        "value": "0643",
+        "name": "Maelstrom Spider Squard",
+        "type": "PSY"
+    },
+    {
+        "value": "0645",
+        "name": "Ice Witch Whitey Bay",
+        "type": "INT"
+    },
+    {
+        "value": "0647",
+        "name": "Little Oars Jr., Charging!",
+        "type": "STR"
+    },
+    {
+        "value": "0649",
+        "name": "Marco the Phoenix Whitebeard 1st Div. Commander",
+        "type": "QCK"
+    },
+    {
+        "value": "0658",
+        "name": "Choo, Sun Pirates",
+        "type": "INT"
+    },
+    {
+        "value": "0667",
+        "name": "Nefeltari Cobra, King of Alabasta Kingdom",
+        "type": "PSY"
+    },
+    {
+        "value": "0669",
+        "name": "Sabo the Revolutionary",
+        "type": "PSY"
+    },
+    {
+        "value": "0671",
+        "name": "Koala the Revolutionary",
+        "type": "DEX"
+    },
+    {
+        "value": "0673",
+        "name": "Hack, Revolutionary Army",
+        "type": "STR"
+    },
+    {
+        "value": "0675",
+        "name": "Emporio Ivankov, Revolutionary Army",
+        "type": "INT"
+    },
+    {
+        "value": "0677",
+        "name": "Inazuma the Revolutionary",
+        "type": "QCK"
+    },
+    {
+        "value": "0701",
+        "name": "Oimo",
+        "type": "PSY"
+    },
+    {
+        "value": "0702",
+        "name": "Kashii",
+        "type": "INT"
+    },
+    {
+        "value": "0703",
+        "name": "Watchdog Unit of the Law",
+        "type": "QCK"
+    },
+    {
+        "value": "0704",
+        "name": "Righteous Juror",
+        "type": "STR"
+    },
+    {
+        "value": "0705",
+        "name": "Three-Headed Baskerville",
+        "type": "DEX"
+    },
+    {
+        "value": "0707",
+        "name": "Blueno: Six Powers, Cipher Pol No. 9",
+        "type": "STR"
+    },
+    {
+        "value": "0709",
+        "name": "Nico Robin, Straw Hat Pirates",
+        "type": "PSY"
+    },
+    {
+        "value": "0716",
+        "name": "Conis, Skypiea Girl",
+        "type": "PSY"
+    },
+    {
+        "value": "0718",
+        "name": "'Hawk Eyes' Mihawk, World's Strongest Swordsman",
+        "type": "INT"
+    },
+    {
+        "value": "0720",
+        "name": "Sir Crocodile: Logia, Ex-Warlord of the Sea",
+        "type": "DEX"
+    },
+    {
+        "value": "0729",
+        "name": "Kalifa: Six Powers, Cipher Pol No. 9",
+        "type": "DEX"
+    },
+    {
+        "value": "0731",
+        "name": "Jabra: Six Powers, Cipher Pol No. 9",
+        "type": "INT"
+    },
+    {
+        "value": "0733",
+        "name": "Fukuro: Six Powers, Cipher Pol No. 9",
+        "type": "STR"
+    },
+    {
+        "value": "0735",
+        "name": "Kumadori: Six Powers, Cipher Pol No. 9",
+        "type": "PSY"
+    },
+    {
+        "value": "0736",
+        "name": "Kaku: Beastman, Ox-Ox Fruit, Model: Giraffe",
+        "type": "STR"
+    },
+    {
+        "value": "0737",
+        "name": "Lucci: Beastman, Cat-Cat Fruit, Model: Leopard",
+        "type": "QCK"
+    },
+    {
+        "value": "0738",
+        "name": "Spandam",
+        "type": "INT"
+    },
+    {
+        "value": "0739",
+        "name": "Franky, Straw Hat Pirates",
+        "type": "INT"
+    },
+    {
+        "value": "0748",
+        "name": "Rob Lucci, CP9's Strongest",
+        "type": "STR"
+    },
+    {
+        "value": "0750",
+        "name": "Kaku, CP9's Strongest",
+        "type": "DEX"
+    },
+    {
+        "value": "0752",
+        "name": "Kalifa, CP9's Strongest",
+        "type": "QCK"
+    },
+    {
+        "value": "0754",
+        "name": "Jabra, CP9's Strongest",
+        "type": "QCK"
+    },
+    {
+        "value": "0756",
+        "name": "Blueno, CP9's Strongest",
+        "type": "INT"
+    },
+    {
+        "value": "0758",
+        "name": "Fukuro, CP9's Strongest",
+        "type": "PSY"
+    },
+    {
+        "value": "0760",
+        "name": "Kumadori, CP9's Strongest",
+        "type": "STR"
+    },
+    {
+        "value": "0785",
+        "name": "Genzo, Cocoyasi Village Resident",
+        "type": "STR"
+    },
+    {
+        "value": "0787",
+        "name": "Dr. Hiriluk, Quack Doctor",
+        "type": "PSY"
+    },
+    {
+        "value": "0789",
+        "name": "Kuina, Shimotsuki Village's Girl Swordsman",
+        "type": "DEX"
+    },
+    {
+        "value": "0791",
+        "name": "Onion, Pepper & Carrot, the Usopp Pirates",
+        "type": "QCK"
+    },
+    {
+        "value": "0793",
+        "name": "Iceburg, Mayor of W7 and President of Galley-La Company",
+        "type": "INT"
+    },
+    {
+        "value": "0800",
+        "name": "Octopus Boxer, Sea Animal Pirates",
+        "type": "STR"
+    },
+    {
+        "value": "0811",
+        "name": "Risky Brothers",
+        "type": "DEX"
+    },
+    {
+        "value": "0812",
+        "name": "Cerberus",
+        "type": "QCK"
+    },
+    {
+        "value": "0813",
+        "name": "Taralan",
+        "type": "INT"
+    },
+    {
+        "value": "0814",
+        "name": "Bear Skin Rug",
+        "type": "DEX"
+    },
+    {
+        "value": "0816",
+        "name": "Gecko Moria, Thriller Bark Ruler",
+        "type": "INT"
+    },
+    {
+        "value": "0838",
+        "name": "Master Caesar",
+        "type": "DEX"
+    },
+    {
+        "value": "0840",
+        "name": "Vergo, Donquixote Pirates",
+        "type": "INT"
+    },
+    {
+        "value": "0842",
+        "name": "Monet, Donquixote Pirates",
+        "type": "PSY"
+    },
+    {
+        "value": "0844",
+        "name": "Baby 5, Donquixote Pirates",
+        "type": "STR"
+    },
+    {
+        "value": "0846",
+        "name": "Buffalo, Donquixote Pirates",
+        "type": "QCK"
+    },
+    {
+        "value": "0849",
+        "name": "Cutty Flam, Tom's Workers",
+        "type": "STR"
+    },
+    {
+        "value": "0854",
+        "name": "Chopper's Snow Day",
+        "type": "DEX"
+    },
+    {
+        "value": "0870",
+        "name": "Heavenly Yaksha Donquixote Doflamingo",
+        "type": "QCK"
+    },
+    {
+        "value": "0872",
+        "name": "Sugar, Donquixote Pirates",
+        "type": "QCK"
+    },
+    {
+        "value": "0874",
+        "name": "Señor Pink, Donquixote Pirates",
+        "type": "PSY"
+    },
+    {
+        "value": "0876",
+        "name": "Trebol, Donquixote Pirates",
+        "type": "INT"
+    },
+    {
+        "value": "0878",
+        "name": "Giolla, Donquixote Pirates",
+        "type": "DEX"
+    },
+    {
+        "value": "0880",
+        "name": "Lao G., Donquixote Pirates",
+        "type": "STR"
+    },
+    {
+        "value": "0887",
+        "name": "Buggy, Cheerfully Crazy",
+        "type": "QCK"
+    },
+    {
+        "value": "0888",
+        "name": "Horo Horo Ghost",
+        "type": "PSY"
+    },
+    {
+        "value": "0890",
+        "name": "Perona, Giant Ghost Princess",
+        "type": "DEX"
+    },
+    {
+        "value": "0891",
+        "name": "Doctor Hogback, Thriller Bark Demon",
+        "type": "INT"
+    },
+    {
+        "value": "0892",
+        "name": "Absalom of the Graveyard, Thriller Bark Demon",
+        "type": "STR"
+    },
+    {
+        "value": "0893",
+        "name": "Oars, Special Zombie",
+        "type": "STR"
+    },
+    {
+        "value": "0894",
+        "name": "Gecko Moria, Shadows' Asgard",
+        "type": "INT"
+    },
+    {
+        "value": "0896",
+        "name": "Brook, Straw Hat Pirates",
+        "type": "DEX"
+    },
+    {
+        "value": "0899",
+        "name": "Mr. 2 Bon Clay, Dubious Samurai",
+        "type": "INT"
+    },
+    {
+        "value": "0906",
+        "name": "Roronoa Zoro, Pupil of the World's Strongest Swordsman",
+        "type": "STR"
+    },
+    {
+        "value": "0908",
+        "name": "Nico Robin, Flame of the Revolution",
+        "type": "INT"
+    },
+    {
+        "value": "0910",
+        "name": "Chopper Mask, Defender of Peace",
+        "type": "PSY"
+    },
+    {
+        "value": "0912",
+        "name": "Sanji, Chef of Love",
+        "type": "DEX"
+    },
+    {
+        "value": "0914",
+        "name": "Brook, BONE to be Wild!!!",
+        "type": "QCK"
+    },
+    {
+        "value": "0920",
+        "name": "Sweetpea",
+        "type": "STR"
+    },
+    {
+        "value": "0930",
+        "name": "Saldeath",
+        "type": "INT"
+    },
+    {
+        "value": "0935",
+        "name": "Knight of the Sea Jinbe, Warlord of the Sea",
+        "type": "INT"
+    },
+    {
+        "value": "0937",
+        "name": "Monkey D. Luffy, Crew's Promise: 3D2Y",
+        "type": "QCK"
+    },
+    {
+        "value": "0939",
+        "name": "Nami, Weatheria's Cat Burglar",
+        "type": "PSY"
+    },
+    {
+        "value": "0941",
+        "name": "Usopp, Swindling Forest's Resolute Warrior",
+        "type": "DEX"
+    },
+    {
+        "value": "0943",
+        "name": "Cyborg Franky, Sacred Beast of Baldimore",
+        "type": "STR"
+    },
+    {
+        "value": "0954",
+        "name": "Gyaro",
+        "type": "QCK"
+    },
+    {
+        "value": "0955",
+        "name": "Macro",
+        "type": "PSY"
+    },
+    {
+        "value": "0956",
+        "name": "Tansui",
+        "type": "INT"
+    },
+    {
+        "value": "0963",
+        "name": "Saint Charlos",
+        "type": "STR"
+    },
+    {
+        "value": "0964",
+        "name": "Saint Roswald",
+        "type": "DEX"
+    },
+    {
+        "value": "0965",
+        "name": "Saint Shalria",
+        "type": "QCK"
+    },
+    {
+        "value": "0966",
+        "name": "Eustass Kid, Supernova",
+        "type": "QCK"
+    },
+    {
+        "value": "0967",
+        "name": "Trafalgar Law, Supernova",
+        "type": "INT"
+    },
+    {
+        "value": "0972",
+        "name": "Pacifista PX-5",
+        "type": "INT"
+    },
+    {
+        "value": "0974",
+        "name": "Sentomaru, Marine Science Unit Commander",
+        "type": "PSY"
+    },
+    {
+        "value": "0991",
+        "name": "Machvise, Donquixote Pirates",
+        "type": "INT"
+    },
+    {
+        "value": "0993",
+        "name": "Gladius, Donquixote Pirates",
+        "type": "QCK"
+    },
+    {
+        "value": "0995",
+        "name": "Violet, Donquixote Pirates",
+        "type": "PSY"
+    },
+    {
+        "value": "0997",
+        "name": "Dellinger, Donquixote Pirates",
+        "type": "DEX"
+    },
+    {
+        "value": "0999",
+        "name": "Diamante, Donquixote Pirates",
+        "type": "STR"
+    },
+    {
+        "value": "1001",
+        "name": "Donquixote Rosinante",
+        "type": "DEX"
+    },
+    {
+        "value": "1006",
+        "name": "Jean Bart, Heart Pirates",
+        "type": "STR"
+    },
+    {
+        "value": "1014",
+        "name": "Tony Tony Chopper, Animal King",
+        "type": "PSY"
+    },
+    {
+        "value": "1025",
+        "name": "Don Chinjao, Kano Kingdom Gang",
+        "type": "INT"
+    },
+    {
+        "value": "1027",
+        "name": "Blue Gilly, Jiaokungdo Fighter",
+        "type": "QCK"
+    },
+    {
+        "value": "1029",
+        "name": "Funk Brothers, Mogaro Kingdom Assassins",
+        "type": "DEX"
+    },
+    {
+        "value": "1031",
+        "name": "Hajrudin, Pirate Mercenary",
+        "type": "PSY"
+    },
+    {
+        "value": "1033",
+        "name": "Abdullah and Jeet, Former Bounty Hunters",
+        "type": "STR"
+    },
+    {
+        "value": "1035",
+        "name": "Man-Eating Bartolomeo",
+        "type": "STR"
+    },
+    {
+        "value": "1045",
+        "name": "Trafalgar Law Warlord of the Sea",
+        "type": "PSY"
+    },
+    {
+        "value": "1056",
+        "name": "Boa Sandersonia, Kuja Pirates",
+        "type": "DEX"
+    },
+    {
+        "value": "1058",
+        "name": "Boa Marigold, Kuja Pirates",
+        "type": "STR"
+    },
+    {
+        "value": "1060",
+        "name": "Marguerite, Kuja Warrior",
+        "type": "PSY"
+    },
+    {
+        "value": "1061",
+        "name": "Kikyo",
+        "type": "QCK"
+    },
+    {
+        "value": "1062",
+        "name": "Gloriosa",
+        "type": "INT"
+    },
+    {
+        "value": "1070",
+        "name": "'Pirate Executioner' Shuraiya Bascud",
+        "type": "DEX"
+    },
+    {
+        "value": "1075",
+        "name": "Ricky, Mystery Swordsman",
+        "type": "INT"
+    },
+    {
+        "value": "1077",
+        "name": "Leo, Tontatta Corps Leader",
+        "type": "QCK"
+    },
+    {
+        "value": "1079",
+        "name": "Mansherry, Princess of the Tontatta Tribe",
+        "type": "PSY"
+    },
+    {
+        "value": "1081",
+        "name": "Kyros, Former Captain of the Riku Royal Army",
+        "type": "DEX"
+    },
+    {
+        "value": "1083",
+        "name": "Don Sai, Kano Kingdom Gang",
+        "type": "STR"
+    },
+    {
+        "value": "1085",
+        "name": "Issho",
+        "type": "INT"
+    },
+    {
+        "value": "1098",
+        "name": "Billy",
+        "type": "PSY"
+    },
+    {
+        "value": "1115",
+        "name": "Monkey D. Luffy, A Pirate Who Lives By His Code",
+        "type": "STR"
+    },
+    {
+        "value": "1117",
+        "name": "Sanji, A Pirate Who Lives By His Code",
+        "type": "INT"
+    },
+    {
+        "value": "1119",
+        "name": "Nami, A Pirate Who Lives By Her Code",
+        "type": "QCK"
+    },
+    {
+        "value": "1121",
+        "name": "Monkey D. Luffy, A Vow in the Great Age of Pirates - Pirate King",
+        "type": "STR"
+    },
+    {
+        "value": "1123",
+        "name": "White Knight Cavendish",
+        "type": "QCK"
+    },
+    {
+        "value": "1125",
+        "name": "Suleiman the Beheader",
+        "type": "PSY"
+    },
+    {
+        "value": "1127",
+        "name": "Orlumbus, Massacre Ruler",
+        "type": "DEX"
+    },
+    {
+        "value": "1129",
+        "name": "Dagama, Prodence Kingdom Tactician",
+        "type": "INT"
+    },
+    {
+        "value": "1131",
+        "name": "Elizabello II, King of Prodence Kingdom",
+        "type": "STR"
+    },
+    {
+        "value": "1133",
+        "name": "Destruction Cannon Ideo",
+        "type": "QCK"
+    },
+    {
+        "value": "1151",
+        "name": "Minotaur",
+        "type": "PSY"
+    },
+    {
+        "value": "1152",
+        "name": "Minozebra",
+        "type": "INT"
+    },
+    {
+        "value": "1153",
+        "name": "Sphinx",
+        "type": "STR"
+    },
+    {
+        "value": "1154",
+        "name": "Saldeath, Chief Guard",
+        "type": "DEX"
+    },
+    {
+        "value": "1155",
+        "name": "Army Wolf",
+        "type": "QCK"
+    },
+    {
+        "value": "1157",
+        "name": "Under Warden Hannyabal, Undersea Prison - Impel Down",
+        "type": "PSY"
+    },
+    {
+        "value": "1159",
+        "name": "Chief Warden Magellan, Undersea Prison - Impel Down",
+        "type": "STR"
+    },
+    {
+        "value": "1173",
+        "name": "Brook, A Pirate Who Lives By His Code",
+        "type": "PSY"
+    },
+    {
+        "value": "1175",
+        "name": "Roronoa Zoro, A Pirate Who Lives By His Code",
+        "type": "DEX"
+    },
+    {
+        "value": "1177",
+        "name": "Chopper, A Pirate Who Lives By His Code",
+        "type": "DEX"
+    },
+    {
+        "value": "1182",
+        "name": "Blenheim, The Cutlass",
+        "type": "DEX"
+    },
+    {
+        "value": "1184",
+        "name": "Kingdew, Twin Fist Gauntlets",
+        "type": "PSY"
+    },
+    {
+        "value": "1186",
+        "name": "Haruta, Gale Small Swordsman",
+        "type": "INT"
+    },
+    {
+        "value": "1188",
+        "name": "Atmos, The Water Buffalo",
+        "type": "STR"
+    },
+    {
+        "value": "1190",
+        "name": "Speed Jil, Shield and Lance",
+        "type": "QCK"
+    },
+    {
+        "value": "1192",
+        "name": "Kuzan",
+        "type": "QCK"
+    },
+    {
+        "value": "1206",
+        "name": "Rumbar Pirates Laboon",
+        "type": "STR"
+    },
+    {
+        "value": "1208",
+        "name": "Nico Robin, A Pirate Who Lives By Her Code",
+        "type": "INT"
+    },
+    {
+        "value": "1210",
+        "name": "Usopp, A Pirate Who Lives By His Code",
+        "type": "QCK"
+    },
+    {
+        "value": "1212",
+        "name": "Franky, A Pirate Who Lives By His Code",
+        "type": "STR"
+    },
+    {
+        "value": "1218",
+        "name": "Boa Hancock, Amazon Lily Princess",
+        "type": "STR"
+    },
+    {
+        "value": "1223",
+        "name": "Bastille",
+        "type": "INT"
+    },
+    {
+        "value": "1224",
+        "name": "Yamakaji",
+        "type": "STR"
+    },
+    {
+        "value": "1226",
+        "name": "Smoker, Navy Headquarters Commodore",
+        "type": "PSY"
+    },
+    {
+        "value": "1227",
+        "name": "Dracule Mihawk, Hawkeyes",
+        "type": "QCK"
+    },
+    {
+        "value": "1228",
+        "name": "Kizaru, Navy Headquarters Admiral",
+        "type": "DEX"
+    },
+    {
+        "value": "1230",
+        "name": "Sentomaru of the Axe, Navy HQ Officer",
+        "type": "INT"
+    },
+    {
+        "value": "1232",
+        "name": "Smoker, G-5 Navy HQ Vice Admiral",
+        "type": "DEX"
+    },
+    {
+        "value": "1234",
+        "name": "Tashigi, G-5 Navy HQ Captain ",
+        "type": "QCK"
+    },
+    {
+        "value": "1236",
+        "name": "Maynard the Pursuer, Navy HQ Vice Admiral",
+        "type": "PSY"
+    },
+    {
+        "value": "1238",
+        "name": "'Shark Cutter' Bastille, Navy HQ Vice Admiral",
+        "type": "STR"
+    },
+    {
+        "value": "1240",
+        "name": "Borsalino",
+        "type": "PSY"
+    },
+    {
+        "value": "1268",
+        "name": "Blackbeard, Captain of the Blackbeard Pirates",
+        "type": "DEX"
+    },
+    {
+        "value": "1270",
+        "name": "'Demon Sheriff' Laffitte",
+        "type": "DEX"
+    },
+    {
+        "value": "1272",
+        "name": "'The Supersonic' Van Augur",
+        "type": "QCK"
+    },
+    {
+        "value": "1274",
+        "name": "'Champion' Jesus Burgess",
+        "type": "STR"
+    },
+    {
+        "value": "1276",
+        "name": "Shiryu of the Rain",
+        "type": "INT"
+    },
+    {
+        "value": "1278",
+        "name": "'Grim Reaper' Doc Q",
+        "type": "PSY"
+    },
+    {
+        "value": "1279",
+        "name": "John Giant",
+        "type": "DEX"
+    },
+    {
+        "value": "1280",
+        "name": "Aokiji, Navy HQ Admiral",
+        "type": "PSY"
+    },
+    {
+        "value": "1281",
+        "name": "Garp, Navy HQ Vice Admiral",
+        "type": "STR"
+    },
+    {
+        "value": "1282",
+        "name": "Sengoku Navy HQ Fleet Admiral",
+        "type": "INT"
+    },
+    {
+        "value": "1283",
+        "name": "Akainu Navy HQ Admiral",
+        "type": "INT"
+    },
+    {
+        "value": "1314",
+        "name": "Sakazuki",
+        "type": "STR"
+    },
+    {
+        "value": "1316",
+        "name": "Coby, Student of the 'Hero of the Navy', Navy HQ Master Chief Petty Officer",
+        "type": "PSY"
+    },
+    {
+        "value": "1318",
+        "name": "'Garp the Fist', Navy HQ Vice Admiral",
+        "type": "STR"
+    },
+    {
+        "value": "1320",
+        "name": "'Grand Staff Officer' Tsuru, Navy HQ Vice Admiral",
+        "type": "QCK"
+    },
+    {
+        "value": "1322",
+        "name": "Momonga, Monster Slash of the Great Commander, Navy Vice Admiral",
+        "type": "DEX"
+    },
+    {
+        "value": "1324",
+        "name": "Onigumo, Swordsman of the Eight-Sword Style, Navy Vice Admiral",
+        "type": "INT"
+    },
+    {
+        "value": "1342",
+        "name": "Curly Dadan",
+        "type": "PSY"
+    },
+    {
+        "value": "1343",
+        "name": "Porchemy",
+        "type": "DEX"
+    },
+    {
+        "value": "1344",
+        "name": "Bluejam",
+        "type": "STR"
+    },
+    {
+        "value": "1345",
+        "name": "Jinbe, Fishman Pirates Captain",
+        "type": "STR"
+    },
+    {
+        "value": "1346",
+        "name": "Heracles'n, Highwayman of the Forest, Teacher of Amazing Weapons",
+        "type": "DEX"
+    },
+    {
+        "value": "1347",
+        "name": "Birdie Kingdom Roc",
+        "type": "PSY"
+    },
+    {
+        "value": "1348",
+        "name": "Humandrills",
+        "type": "STR"
+    },
+    {
+        "value": "1349",
+        "name": "Haredas",
+        "type": "PSY"
+    },
+    {
+        "value": "1350",
+        "name": "Long Arm Kingdom Tribesman",
+        "type": "QCK"
+    },
+    {
+        "value": "1352",
+        "name": "Ivankov, New Kama King",
+        "type": "DEX"
+    },
+    {
+        "value": "1353",
+        "name": "Rayleigh, Crew of the Pirate King",
+        "type": "QCK"
+    },
+    {
+        "value": "1354",
+        "name": "Silvers Rayleigh, Master of Sleepless Street",
+        "type": "DEX"
+    },
+    {
+        "value": "1362",
+        "name": "Roronoa Zoro, Reunion of the Straw Hat Pirates",
+        "type": "DEX"
+    },
+    {
+        "value": "1364",
+        "name": "Franky, Reunion of the Straw Hat Pirates",
+        "type": "PSY"
+    },
+    {
+        "value": "1366",
+        "name": "Nami, Reunion of the Straw Hat Pirates",
+        "type": "INT"
+    },
+    {
+        "value": "1368",
+        "name": "Sanji, Reunion of the Straw Hat Pirates",
+        "type": "STR"
+    },
+    {
+        "value": "1370",
+        "name": "Tony Tony Chopper, Reunion of the Straw Hat Pirates",
+        "type": "QCK"
+    },
+    {
+        "value": "1387",
+        "name": "Monkey D. Luffy, Gum Gum Elephant: Elephant Gun",
+        "type": "STR"
+    },
+    {
+        "value": "1388",
+        "name": "Roronoa Zoro, Unfortunate Port Bird: Yakkoudori",
+        "type": "DEX"
+    },
+    {
+        "value": "1389",
+        "name": "Nami, Weather Egg: Thunder Breed Tempo",
+        "type": "INT"
+    },
+    {
+        "value": "1391",
+        "name": "Captain Buggy",
+        "type": "INT"
+    },
+    {
+        "value": "1392",
+        "name": "Sentomaru, Wall of the Sabaody Archipelagos",
+        "type": "PSY"
+    },
+    {
+        "value": "1393",
+        "name": "Demalo Black",
+        "type": "INT"
+    },
+    {
+        "value": "1404",
+        "name": "Monkey D. Luffy, Reunion of the Straw Hat Pirates",
+        "type": "QCK"
+    },
+    {
+        "value": "1406",
+        "name": "Usopp, Reunion of the Straw Hat Pirates",
+        "type": "PSY"
+    },
+    {
+        "value": "1408",
+        "name": "Nico Robin, Reunion of the Straw Hat Pirates",
+        "type": "DEX"
+    },
+    {
+        "value": "1410",
+        "name": "Brook, Reunion of the Straw Hat Pirates",
+        "type": "INT"
+    },
+    {
+        "value": "1412",
+        "name": "Tony Tony Chopper: Monster Point, Reunion of the Straw Hat Pirates",
+        "type": "STR"
+    },
+    {
+        "value": "1413",
+        "name": "Whitebeard: Four Emperors",
+        "type": "STR"
+    },
+    {
+        "value": "1418",
+        "name": "Stainless",
+        "type": "INT"
+    },
+    {
+        "value": "1434",
+        "name": "Hody Jones, the Ghost of Fishman District",
+        "type": "INT"
+    },
+    {
+        "value": "1436",
+        "name": "Hyouzou, Ghosts of Fishman District",
+        "type": "QCK"
+    },
+    {
+        "value": "1438",
+        "name": "Ikaros Much, Ghosts of Fishman District",
+        "type": "PSY"
+    },
+    {
+        "value": "1440",
+        "name": "Daruma, Ghosts of Fishman District",
+        "type": "DEX"
+    },
+    {
+        "value": "1442",
+        "name": "Zeo, Ghosts of Fishman District",
+        "type": "INT"
+    },
+    {
+        "value": "1444",
+        "name": "Dosun, Ghosts of Fishman District",
+        "type": "STR"
+    },
+    {
+        "value": "1445",
+        "name": "Boa Hancock: Snake Princess",
+        "type": "QCK"
+    },
+    {
+        "value": "1446",
+        "name": "Usopp, Platanus: Shuriken",
+        "type": "PSY"
+    },
+    {
+        "value": "1447",
+        "name": "Sanji, Grill Shot",
+        "type": "QCK"
+    },
+    {
+        "value": "1448",
+        "name": "Tony Tony Chopper, Heavy Gong",
+        "type": "PSY"
+    },
+    {
+        "value": "1470",
+        "name": "Lip 'Service' Doughty",
+        "type": "STR"
+    },
+    {
+        "value": "1473",
+        "name": "Shirahoshi-hime, Ryugu Kingdom Princess",
+        "type": "PSY"
+    },
+    {
+        "value": "1475",
+        "name": "Neptune, Ryugu Kingdom King",
+        "type": "STR"
+    },
+    {
+        "value": "1477",
+        "name": "Fukaboshi, Ryugu Kingdom Prince",
+        "type": "PSY"
+    },
+    {
+        "value": "1479",
+        "name": "Wet Haired Caribou, Caribou Pirates Captain",
+        "type": "QCK"
+    },
+    {
+        "value": "1481",
+        "name": "Vander Decken IX, Captain of the Flying Pirates",
+        "type": "DEX"
+    },
+    {
+        "value": "1483",
+        "name": "Madame Shyarly, Fortune Teller",
+        "type": "INT"
+    },
+    {
+        "value": "1492",
+        "name": "Sabo, True Power of the Mera Mera no Mi",
+        "type": "PSY"
+    },
+    {
+        "value": "1501",
+        "name": "Caribou",
+        "type": "INT"
+    },
+    {
+        "value": "1502",
+        "name": "Coribou",
+        "type": "PSY"
+    },
+    {
+        "value": "1503",
+        "name": "Hammond",
+        "type": "QCK"
+    },
+    {
+        "value": "1504",
+        "name": "Vander Decken IX",
+        "type": "DEX"
+    },
+    {
+        "value": "1506",
+        "name": "Hody Jones, Awakened",
+        "type": "STR"
+    },
+    {
+        "value": "1532",
+        "name": "God Usopp",
+        "type": "DEX"
+    },
+    {
+        "value": "1536",
+        "name": "Duval, Straw Hat Pirates Accomplice",
+        "type": "PSY"
+    },
+    {
+        "value": "1538",
+        "name": "Heracles'n, Straw Hat Pirates Accomplice",
+        "type": "STR"
+    },
+    {
+        "value": "1540",
+        "name": "Perona, Straw Hat Pirates Accomplice",
+        "type": "INT"
+    },
+    {
+        "value": "1543",
+        "name": "Captain Usopp, Usopp's Great Manly Adventure ~Chapter II~",
+        "type": "DEX"
+    },
+    {
+        "value": "1549",
+        "name": "Nico Robin, Mil Fluer: Campo de Flores",
+        "type": "PSY"
+    },
+    {
+        "value": "1550",
+        "name": "Franky, Rocket Launcher",
+        "type": "INT"
+    },
+    {
+        "value": "1551",
+        "name": "Brook, Song of Scratches: Blizzard Slash",
+        "type": "DEX"
+    },
+    {
+        "value": "1558",
+        "name": "Ikaros",
+        "type": "DEX"
+    },
+    {
+        "value": "1571",
+        "name": "'King of the Day' Inuarashi",
+        "type": "STR"
+    },
+    {
+        "value": "1573",
+        "name": "Ruler's Aide Wanda",
+        "type": "QCK"
+    },
+    {
+        "value": "1575",
+        "name": "Full Power Sicilian",
+        "type": "INT"
+    },
+    {
+        "value": "1577",
+        "name": "Foxfire Kinemon, Wano Country Samurai",
+        "type": "DEX"
+    },
+    {
+        "value": "1579",
+        "name": "Momonosuke, Child of Wano Country",
+        "type": "PSY"
+    },
+    {
+        "value": "1588",
+        "name": "Sanji, Germa Kingdom Prince",
+        "type": "INT"
+    },
+    {
+        "value": "1593",
+        "name": "Monkey D. Luffy, Gear 4th - Boundman",
+        "type": "PSY"
+    },
+    {
+        "value": "1610",
+        "name": "Kami Enel, Clash of the Great Pirate Era [Fairy Vearth]",
+        "type": "QCK"
+    },
+    {
+        "value": "1612",
+        "name": "Bartholomew Kuma, Clash of the Great Pirate Era [Crew Obliterator]",
+        "type": "PSY"
+    },
+    {
+        "value": "1614",
+        "name": "Rob Lucci, Clash of the Great Pirate Era [Dark Justice]",
+        "type": "DEX"
+    },
+    {
+        "value": "1616",
+        "name": "Mr. 0, Clash of the Great Pirate Era [Utopia]",
+        "type": "INT"
+    },
+    {
+        "value": "1618",
+        "name": "Gecko Moria, Clash of the Great Pirate Era [The Strongest Crew]",
+        "type": "STR"
+    },
+    {
+        "value": "1619",
+        "name": "'Dark King' Silvers Rayleigh, Right Hand of the Pirate King",
+        "type": "INT"
+    },
+    {
+        "value": "1620",
+        "name": "Eustass Kid, Wakes of an Endless Dream, Kid Pirates",
+        "type": "STR"
+    },
+    {
+        "value": "1652",
+        "name": "'King of the Night' Nekomamushi",
+        "type": "PSY"
+    },
+    {
+        "value": "1654",
+        "name": "Pedro of the Treetops",
+        "type": "INT"
+    },
+    {
+        "value": "1656",
+        "name": "Ruler's Aide Carrot",
+        "type": "QCK"
+    },
+    {
+        "value": "1658",
+        "name": "Evening Shower Kanjuro, Wano Country Samurai",
+        "type": "DEX"
+    },
+    {
+        "value": "1660",
+        "name": "Raizo of the Mist",
+        "type": "STR"
+    },
+    {
+        "value": "1663",
+        "name": "Rob Lucci \"Life Return,\" CP9's Strongest",
+        "type": "STR"
+    },
+    {
+        "value": "1700",
+        "name": "Jinbe, Hell's Warlord of the Sea",
+        "type": "PSY"
+    },
+    {
+        "value": "1702",
+        "name": "Emporio Ivankov, Hell's Revolutionary Army Officer",
+        "type": "QCK"
+    },
+    {
+        "value": "1704",
+        "name": "Hannyabal, Now the Ruler's Trusted Retainer",
+        "type": "INT"
+    },
+    {
+        "value": "1707",
+        "name": "Red Hair Shanks, Four Emperors",
+        "type": "PSY"
+    },
+    {
+        "value": "1764",
+        "name": "Kuzan, Former Navy HQ Greatest Military Power",
+        "type": "QCK"
     }
 ]

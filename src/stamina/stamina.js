@@ -11,7 +11,7 @@ const audio = new Audio('assets/audio/notification.mp3');
     const timerTitle = title[0];
     const milliStaminaConst = 5 * 60 * 1000;
     const totalMilliseconds = (parseInt( $( '#maxStamina' ).val() ) - parseInt( $( '#currentStamina' ).val() )) * milliStaminaConst;
-    
+
 
     timer.reset( totalMilliseconds );
     title.removeClass( 'text-danger' );

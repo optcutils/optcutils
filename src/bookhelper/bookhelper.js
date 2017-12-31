@@ -2,7 +2,7 @@ const fortnights = require('../../bookhelper/assets/json/fortnightsNEW.json');
 const characters = require('../../bookhelper/assets/json/charactersNEW.json');
 console.log(characters);
 const $ = require('jquery');
-const selectize = require('selectize');
+require('selectize');
 const popupS = require('popups');
 const unique = (data) => Array.from(new Set(data));
 const fortnightsTable = $('#fortnightsTable');
@@ -15,6 +15,17 @@ if (localStorage.getItem('characters')) {
 } else {
     selectedCharacters = new Set();
 }
+
+
+if (!localStorage.getItem('saveNoticeDisabled') || localStorage.getItem('saveNoticeDisabled') === false) {
+    $('#saveNotice').append(`<p><strong>IMPORTANT!</strong> Data is stored on the browser's <i>localStorage</i>, 
+                            which means it will stay there until you delete navigation data (cache, etc).</p>
+                            <p>It's strongly suggested that you save your data periodically to avoid losing it. 
+                            Just click 'Save' and copy the code you will get to a safe place.</p>
+                            <p>If you ever lose your characters, just click 'Load' and paste the code in it.</p>
+                            <p><a id="disableNotice">Hide this message</a>`);
+}
+
 
 function clearTable(fortnightsTable) {
     fortnightsTable.empty();
@@ -32,8 +43,31 @@ let select = characterNames.selectize({
     searchField: 'name',
     sortField: 'value',
     render: {
+
         option: function(item, escape){
             return '<div><span style="display: inline-block;background-size: 30px 30px;width: 30px; height: 30px; background-image: url(\'https://onepiece-treasurecruise.com/wp-content/uploads/f' + escape(pad(item.value, 4)) + '.png\');" />&nbsp;' + escape(item.name) + '</div>';
+
+        option: function (item, escape) {
+            let color = 'red';
+            switch (item.type) {
+                case 'STR':
+                    color = 'red';
+                    break;
+                case 'DEX':
+                    color = 'green';
+                    break;
+                case 'QCK':
+                    color = 'blue';
+                    break;
+                case 'INT':
+                    color = 'purple';
+                    break;
+                case 'PSY':
+                    color = '#999900';
+                    break;
+            }
+            return '<div style="color: ' + color + ';"><span style="display: inline-block;background-size: 30px 30px;width: 30px; height: 30px; background-image: url(\'https://onepiece-treasurecruise.com/wp-content/uploads/f' + escape(pad(item.value, 4)) + '.png\');" />&nbsp;' + escape(item.name) + '</div>';
+
         }
     }
 });
@@ -42,9 +76,13 @@ function clearSelect() {
     select[0].selectize.clear();
 }
 
+$('#disableNotice').on('click', () => {
+    localStorage.setItem('saveNoticeDisabled', true);
+    $('#saveNotice').remove();
+});
+
 $('#saveButton').on('click', () => {
     const saveData = JSON.stringify([...selectedCharacters]);
-    console.log(saveData);
     $('#dataArea').val(saveData);
     return true;
 });
@@ -53,10 +91,20 @@ $('#loadButton').on('click', () => {
     popupS.prompt({
         content: 'Paste your data',
         placeholder: '',
+        labelOk: 'Load',
+        flagShowCloseBtn: false,
+        additionalButtonOkClass: 'exportButtons',
+        additionalButtonCancelClass: 'invisibleButton',
+        additionalPopupClass: 'text-center',
         onSubmit: function (data) {
             if (data) {
-                selectedCharacters = new Set(parseSaveData(data));
-                createCharacterBox();
+                let result = parseSaveData(data);
+                if (result === false) {
+                    popupS.alert({ content: 'Pasted data is not valid' });
+                } else {
+                    selectedCharacters = new Set(result);
+                    createCharacterBox();
+                }
             } else {
                 popupS.alert({
                     content: 'Invalid data'
@@ -66,12 +114,22 @@ $('#loadButton').on('click', () => {
     });
 });
 
-function parseSaveData(json){
-    try{
-        return JSON.parse(json);
-    }catch (e){
-        return popupS.alert({content:'Pasted data is not valid'});
+function parseSaveData(json) {
+    json = typeof json !== 'string'
+        ? JSON.stringify(json)
+        : json;
+
+    try {
+        json = JSON.parse(json);
+    } catch (e) {
+        return false;
     }
+
+    if (typeof json === 'object' && json !== null) {
+        return json;
+    }
+
+    return false;
 }
 characterNames.on('change', (evt) => {
     if (evt.target.value != 0) {
